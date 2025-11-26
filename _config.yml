@@ -1,0 +1,37 @@
+title: "BUGATTI - Building security Guidance, Applying pracTical Threat modellIng"
+description: "A Vlaio/COOCK project focused on practical threat modeling and security guidance"
+baseurl: "/bugatti"
+url: "https://ku-leuven-msec.github.io"
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation
+header_pages:
+  - index.md
+  - presentations.md
+  - calendar.md
+  - consortium.md
+
+# Project information
+project:
+  start_date: "2024"
+  type: "Vlaio/COOCK Tech Transfer Project"
+  lead: "KU Leuven - DistriNet"
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Collections
+collections:
+  presentations:
+    output: true
+    permalink: /presentations/:name/
