@@ -4,7 +4,6 @@ baseurl: "/bugatti"
 url: "https://ku-leuven-msec.github.io"
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -12,13 +11,13 @@ plugins:
 # Navigation
 header_pages:
   - index.md
-  - presentations.md
-  - calendar.md
+  - knowledge-dissemination.md
+  - blog.md
   - consortium.md
 
 # Project information
 project:
-  start_date: "2024"
+  start_date: "2025"
   type: "Vlaio/COOCK Tech Transfer Project"
   lead: "KU Leuven - DistriNet"
 
@@ -29,9 +28,16 @@ exclude:
   - Gemfile.lock
   - node_modules
   - vendor
+  - mcp-server
 
 # Collections
 collections:
-  presentations:
+  dissemination:
     output: true
-    permalink: /presentations/:name/
+    permalink: /knowledge-dissemination/:name/
+  articles:
+    output: true
+    permalink: /knowledge-dissemination/articles/:name/
+  blog:
+    output: true
+    permalink: /blog/:name/

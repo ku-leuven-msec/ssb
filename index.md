@@ -3,73 +3,101 @@ layout: default
 title: Home
 ---
 
-# BUGATTI - Embedded Security Testing and Automation
+<div class="hero-section" style="background: linear-gradient(135deg, rgba(0, 150, 210, 0.85) 0%, rgba(0, 120, 180, 0.85) 100%), url('/bugatti/assets/images/john-adams-1xIN4FMR78A-unsplash.jpg') center/cover; background-attachment: fixed;">
+  <div style="max-width: 900px;">
+    <h1><img src="/bugatti/assets/images/bugatti-logo.svg" alt="BUGATTI" style="height: 50px; width: 50px; display: inline-block; vertical-align: middle; margin-right: 10px;"> BUGATTI</h1>
+    <h2 style="color: white; border: none; padding: 0; margin: 0;">Embedded Security Testing and Automation</h2>
+    <p>Enhancing the security of IoT and embedded solutions through advanced security testing and automation techniques.</p>
+    <p><a href="#about" class="btn" style="margin-top: 20px;">Learn More</a></p>
+  </div>
+</div>
 
-## General Objective
+<div class="capabilities-section">
+  <div class="wrapper">
+    <h2>Key Features</h2>
+    <div class="capabilities-grid">
+      <div class="capability-card">
+        <div class="icon">🧪</div>
+        <h3>Advanced Testing</h3>
+        <p>Sophisticated security testing tools and methods accessible to companies and industries developing IoT solutions.</p>
+      </div>
+      <div class="capability-card">
+        <div class="icon">🛡️</div>
+        <h3>Security Automation</h3>
+        <p>Robust tools for secure configuration, deployment, and management of IoT solutions ensuring sustainable security.</p>
+      </div>
+      <div class="capability-card">
+        <div class="icon">📚</div>
+        <h3>Knowledge Transfer</h3>
+        <p>Hands-on tutorials and workshops providing practical knowledge and skills for security integration.</p>
+      </div>
+      <div class="capability-card">
+        <div class="icon">🔧</div>
+        <h3>Compliance Ready</h3>
+        <p>Aligned with emerging regulations (Red Delegated Act 2025, Cyber Resilience Act 2027) and standards like IEC 62443.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="three-levels-section">
+  <div class="wrapper">
+    <h2>Our Three-Level Approach</h2>
+    <div class="levels-container">
+      <div class="level-card">
+        <div class="level-number">1</div>
+        <h3>Binary Analysis</h3>
+        <p>Analysis of compiled software to detect vulnerabilities not caught during earlier development stages. Essential for legacy code security assessment.</p>
+      </div>
+      <div class="level-card">
+        <div class="level-number">2</div>
+        <h3>Device Security</h3>
+        <p>Detection of known and unknown vulnerabilities in IoT devices through pentests and thorough security analysis of firmware.</p>
+      </div>
+      <div class="level-card">
+        <div class="level-number">3</div>
+        <h3>Infrastructure & Management</h3>
+        <p>Secure configuration, management, and orchestration of IoT solutions across various devices in the ecosystem.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<a id="about"></a>
+# About BUGATTI
 
 Enhancing the security of IoT and embedded solutions through the use of advanced security testing and automation techniques.
 
-## About the Project
+## The Challenge
 
-The Internet of Things (IoT) has fundamentally changed our interaction with technology, permeating all levels of society, from consumer to industry. The increased connectivity offers unprecedented opportunities; in business environments, industrial IoT optimizes productivity, efficiency, and profitability. At the same time, it brings significant security challenges. It is essential to secure IoT devices and their infrastructures to ensure data integrity, privacy, and operational continuity. 
+The Internet of Things (IoT) has fundamentally changed our interaction with technology, permeating all levels of society, from consumer to industry. While increased connectivity offers unprecedented opportunities, it also brings significant security challenges.
 
-Unfortunately, too many IoT developers still view security as a cost item, resulting in this aspect being neglected. However, there is growing concern about the impact of upcoming regulations, and a lack of expertise to adequately address security. Solving these problems is far from simple due to the high degree of complexity and diversity in IoT. This complexity applies even compared to the security of cloud and web-based digital systems, for which solutions are already available for non-research-intensive companies.
+Unfortunately, many IoT developers still view security as a cost item, resulting in this aspect being neglected. However, emerging regulations and the lack of security expertise make this a critical concern. Unlike cloud and web-based systems where solutions already exist, IoT solutions are highly diverse, each presenting unique security challenges across hardware, operating systems, and communication protocols.
 
-This project focuses on making advanced security testing tools and methods accessible to companies and industries developing IoT and embedded solutions. Additionally, it provides robust tools for the secure configuration, deployment, and management of IoT solutions, ensuring sustainable security for the future. This will strengthen the overall cybersecurity of IoT solutions and enable companies to develop robust and secure IoT applications that meet the highest security standards. This is crucial for a solid cybersecurity strategy.
+## Our Mission
 
-### Target Audience
+We make advanced **security testing tools and methods** accessible to companies and industries developing IoT and embedded solutions. Our focus is on enabling secure configuration, deployment, and management of IoT solutions that meet the highest security standards and comply with emerging regulations like the **Red Delegated Act (2025)** and **Cyber Resilience Act (2027)**.
 
-The project's target audience includes:
-- Companies and industries involved in developing IoT solutions
+## Target Audience
+
+- Companies and industries developing IoT solutions
 - Organizations developing embedded software
-- Security professionals and consultants responsible for testing and securing IoT solutions
+- Security professionals responsible for testing IoT solutions
 - Integrators and developers of associated digital solutions
-
-### Strategic Value
-
-To increase the competitiveness of Flemish companies, the project aims to enable them to develop more secure IoT solutions. It stimulates innovation and strengthens their market position within and outside the European Union. This is crucial in light of upcoming European regulations, such as the **Red Delegated Act (2025)** and the **Cyber Resilience Act (2027)**, which impose strict security requirements on digital products.
-
-Rapid absorption of results is expected and urgent in light of emerging regulations. Adoption directly results in more secure IoT solutions and compliance with legislation and standards. To maximize the dissemination and accessibility of this project's results, hands-on tutorials and workshops are being developed. These educational resources provide practical knowledge and skills, better equipping companies to integrate advanced security tools into their processes.
-
-## Project Objectives
-
-The project aims to enhance the security of IoT and embedded solutions through the use of advanced security testing and automation techniques. While existing solutions primarily focus on finding vulnerabilities in specific scenarios such as errors in a web API or in the protocol stack of an application, we find that IoT solutions form a very different playing field. IoT solutions are very diverse and each solution is different. From hardware to operating systems and communication protocols, each aspect brings its own security challenges. Therefore, a one-size-fits-all solution is not realistic. 
-
-Specifically, we establish the following project objectives:
-
-1. **Insight into Security Vulnerabilities**: Building expertise and maturity in identifying where and which vulnerabilities can occur in a specific IoT ecosystem.
-
-2. **Effective Integration of Security Tools**: Enabling effective implementation of customized security tools in IoT environments through guidelines and best practices, which are also incorporated into hands-on tutorials.
-
-3. **Improved Security Analysis of IoT Applications**: Enhancing the security of IoT and embedded solutions through the use of advanced security testing and automation techniques. This will be measured using metrics such as coverage to gain insight into which vulnerabilities are detected, but also the blind spots.
-
-4. **Secure Configuration, Deployment and Management of IoT Applications via Automation**: Making the use of IoT in complex solutions manageable through deployment and security control of Infrastructure-as-Code, and security management through the detection, orchestration and handling of incidents in IoT environments.
-
-5. **Compliance with Regulations and Standards**: Providing companies with the knowledge and resources to achieve compliance with regulations and standards. We will at least test the provided tools and technologies against the RED-DA and CRA regulations, and treat the IEC 62443-4.x standards and harmonized standard prEN 303 645.
-
-6. **Dissemination of Knowledge and Best Practices**: Disseminating knowledge, guidelines and best practices for securing IoT solutions to the broader target audience.
-
-## Project Scope
-
-### Binary Analysis
-At the most fundamental level, we focus on the analysis of compiled software, i.e., binaries. Vulnerabilities that were not caught during earlier steps in the development process (e.g., via source code analysis) can still be detected as much as possible at this stage. Especially with (unsafe) legacy code, this can be necessary.
-
-### Device Security
-At the device level, we concentrate on detecting vulnerabilities in IoT devices using pentests and thorough security analyses of firmware.
-
-### Infrastructure for Secure Configuration and Management
-The highest level encompasses the infrastructure for secure configuration, management, and orchestration of IoT solutions across various devices in the ecosystem.
-
-## Latest Updates
-
-Stay tuned for updates on project milestones, publications, and events.
-
-For more information about DistriNet's research activities, visit [DistriNet Research Group](https://distrinet.cs.kuleuven.be/).
 
 ---
 
-### Quick Links
+## Project Objectives
 
-- [Presentations & Meetings](/bugatti/presentations) - Access presentations from project meetings
-- [Calendar](/bugatti/calendar) - View upcoming events and subscribe to updates
-- [Consortium](/bugatti/consortium) - Meet our research partners and advisory board
+1. **Insight into Security Vulnerabilities** - Building expertise in identifying vulnerabilities in specific IoT ecosystems
+
+2. **Effective Integration of Security Tools** - Implementing customized security tools through guidelines, best practices, and tutorials
+
+3. **Improved Security Analysis** - Enhancing IoT security through advanced testing techniques with measurable coverage metrics
+
+4. **Secure Configuration & Management** - Infrastructure-as-Code for IoT deployment, security control, and incident handling
+
+5. **Compliance with Regulations** - Ensuring compliance with RED-DA, CRA, IEC 62443-4.x, and prEN 303 645 standards
+
+6. **Knowledge Dissemination** - Sharing guidelines and best practices for securing IoT solutions through hands-on workshops
