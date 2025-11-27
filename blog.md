@@ -10,7 +10,7 @@ permalink: /blog/
     <p>Insights, updates, and stories from the BUGATTI team.</p>
   </div>
 </div>
-Photo by <a href="https://unsplash.com/@s_tsuchiya?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Se. Tsuchiya</a> on <a href="https://unsplash.com/photos/green-and-white-computer-ram-stick-sPLLVFJXlb8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+<!--Photo by <a href="https://unsplash.com/@s_tsuchiya?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Se. Tsuchiya</a> on <a href="https://unsplash.com/photos/green-and-white-computer-ram-stick-sPLLVFJXlb8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>-->
       
 <div style="margin: 2em 0;">
   <input type="text" id="searchInput" placeholder="Search blog posts..." style="width: 100%; padding: 12px 16px; font-size: 1em; border: 2px solid #0078b4; border-radius: 4px; box-sizing: border-box;">
