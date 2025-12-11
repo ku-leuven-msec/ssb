@@ -41,9 +41,7 @@ Participants gained practical insights into vulnerability management, understand
 
 ## Key Takeaways
 
-- **CVE Management Challenge**: Organizations face overwhelming numbers of known vulnerabilities. Effective strategies for finding, filtering, and prioritizing CVEs are essential to focus security efforts on the most critical risks for embedded systems.
-
-For more information on this topic, please have a look at our [blog post]({{ site.baseurl }}blog/insights/).
+- **CVE Management Challenge**: Organizations face overwhelming numbers of known vulnerabilities. Effective strategies for finding, filtering, and prioritizing CVEs are essential to focus security efforts on the most critical risks for embedded systems. For more information on this topic, please have a look at our [blog post]({{ site.baseurl }}/blog/insights/).
 
 - **Real-Time Communication Risks**: WebRTC and peer-to-peer RTC implementations in IoT devices often overlook security best practices. Understanding the architecture of RTC sessions, including NAT traversal, connectivity management, and cryptographic handshakes, is essential for identifying vulnerabilities before deployment.
 
