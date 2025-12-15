@@ -1,8 +1,8 @@
-name: Deploy Jekyll site to Pages
+name: Deploy Jekyll site with LFS to GitHub Pages
 
 on:
   push:
-    branches: ["main"]
+    branches: ["main", "copilot/create-static-website-vlaio-coock-project"]
   workflow_dispatch:
 
 permissions:
@@ -20,6 +20,11 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          lfs: true
+      
+      - name: Checkout LFS objects
+        run: git lfs pull
       
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
