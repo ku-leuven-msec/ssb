@@ -6,35 +6,35 @@ title: Home
 <div class="hero-section" style="background: linear-gradient(135deg, rgba(0, 150, 210, 0.85) 0%, rgba(0, 120, 180, 0.85) 100%), url('/ssb/assets/images/john-adams-1xIN4FMR78A-unsplash.jpg') center/cover; background-attachment: fixed;">
   <div style="max-width: 900px;">
     <h1>🏢 Secure Smart Buildings</h1>
-    <h2 style="color: white; border: none; padding: 0; margin: 0;">Cybersecurity for Intelligent Building Systems</h2>
-    <p>Securing smart buildings through practical threat modeling, security guidance, and industry collaboration for manufacturers, integrators, building managers, and service providers.</p>
-    <p><a href="#about" class="btn" style="margin-top: 20px;">Learn More</a></p>
+    <h2 style="color: white; border: none; padding: 0; margin: 0;">Cybersecurity voor Intelligente Gebouwen</h2>
+    <p>Het verwerven van inzicht in adequate beveiliging, relevante regelgeving en beveiligingsstandaarden voor slimme gebouwen. Een TETRA-project voor fabrikanten, integrators, bouwheren, gebouwbeheerders en dienstverleners.</p>
+    <p><a href="#about" class="btn" style="margin-top: 20px;">Meer info</a></p>
   </div>
 </div>
 
 <div class="capabilities-section">
   <div class="wrapper">
-    <h2>Key Features</h2>
+    <h2>Speerpunten</h2>
     <div class="capabilities-grid">
       <div class="capability-card">
         <div class="icon">🔍</div>
-        <h3>Security Insights</h3>
-        <p>Understanding current attacks, vulnerabilities, and security technologies for smart building development.</p>
+        <h3>Beveiligingsinzichten</h3>
+        <p>Inzicht in hedendaagse aanvallen, kwetsbaarheden en beveiligingstechnologieën voor slimme gebouwen.</p>
       </div>
       <div class="capability-card">
         <div class="icon">🛡️</div>
         <h3>Best Practices & Tools</h3>
-        <p>Practical best practices and tools that increase the resilience of smart building systems.</p>
+        <p>Praktische richtlijnen en tools die de veerkracht van slimme gebouwen verhogen.</p>
       </div>
       <div class="capability-card">
         <div class="icon">👥</div>
-        <h3>Stakeholder Engagement</h3>
-        <p>Knowledge dissemination and user group meetings with manufacturers, integrators, and building managers.</p>
+        <h3>Gebruikersgroep</h3>
+        <p>Kennisdisseminatie via bijeenkomsten met fabrikanten, integrators, bouwheren en gebouwbeheerders.</p>
       </div>
       <div class="capability-card">
         <div class="icon">🔧</div>
-        <h3>Safe Methodologies</h3>
-        <p>Methodologies for secure installation, maintenance, and management of smart building services.</p>
+        <h3>Veilige Methoden</h3>
+        <p>Methodologieën voor effectieve en veilige installatie, onderhoud en dienstverlening.</p>
       </div>
     </div>
   </div>
@@ -42,22 +42,22 @@ title: Home
 
 <div class="three-levels-section">
   <div class="wrapper">
-    <h2>Project Goals</h2>
+    <h2>Projectdoelstellingen</h2>
     <div class="levels-container">
       <div class="level-card">
         <div class="level-number">1</div>
-        <h3>Security Awareness</h3>
-        <p>Provide insights into current attacks, common vulnerabilities, and security technologies for smart building systems.</p>
+        <h3>Beveiligingsinzichten</h3>
+        <p>Verstrekken van inzichten met betrekking tot hedendaagse aanvallen, veelvoorkomende kwetsbaarheden en beveiligingstechnologieën tijdens ontwikkeling.</p>
       </div>
       <div class="level-card">
         <div class="level-number">2</div>
-        <h3>Practical Guidance</h3>
-        <p>Deliver best practices and tools to improve the security and resilience of smart buildings.</p>
+        <h3>Best Practices & Tools</h3>
+        <p>Aanreiken van best practices en tools die de veerkracht van slimme gebouwen verhogen.</p>
       </div>
       <div class="level-card">
         <div class="level-number">3</div>
-        <h3>Secure Operations</h3>
-        <p>Establish methodologies for safe and secure installation, maintenance, and management of building systems.</p>
+        <h3>Veilige Methoden</h3>
+        <p>Aanbieden van methodologieën voor effectieve en veilige installatie, onderhoud en dienstverlening.</p>
       </div>
     </div>
   </div>
@@ -65,39 +65,55 @@ title: Home
 
 
 <a id="about"></a>
-# About BUGATTI
+# Over Secure Smart Buildings
 
-Enhancing the security of IoT and embedded solutions through the use of advanced security testing and automation techniques.
+Het Secure Smart Buildings-project richt zich op het verbeteren van cyberveiligheid in intelligente gebouwen door middel van praktijkgericht onderzoek en kennisdeling.
 
-## The Challenge
+## De Uitdaging
 
-The Internet of Things (IoT) has fundamentally changed our interaction with technology, permeating all levels of society, from consumer to industry. While increased connectivity offers unprecedented opportunities, it also brings significant security challenges.
+Door de opkomst van slimme gebouwen is het voor alle stakeholders een uitdaging om snel en effectief inzicht te verwerven in adequate beveiliging, relevante regelgeving en beveiligingsstandaarden. Het verwerven van een diepgaand inzicht in dit complexe domein is van essentieel belang om proactief in te spelen op toekomstige uitdagingen. Bovendien kan cyberveiligheid net leiden tot een competitief voordeel voor alle partijen.
 
-Unfortunately, many IoT developers still view security as a cost item, resulting in this aspect being neglected. However, emerging regulations and the lack of security expertise make this a critical concern. Unlike cloud and web-based systems where solutions already exist, IoT solutions are highly diverse, each presenting unique security challenges across hardware, operating systems, and communication protocols.
+## Onze Missie
 
-## Our Mission
+We maken praktijkgerichte **beveiligingskennis en methodologieën** toegankelijk voor fabrikanten, integrators, bouwheren, gebouwbeheerders en dienstverleners. Onze focus ligt op het ontwikkelen van veilige, betrouwbare slimme gebouwsystemen die voldoen aan de hoogste beveiligingsstandaarden en regelgeving.
 
-We make advanced **security testing tools and methods** accessible to companies and industries developing IoT and embedded solutions. Our focus is on enabling secure configuration, deployment, and management of IoT solutions that meet the highest security standards and comply with emerging regulations like the **Red Delegated Act (2025)** and **Cyber Resilience Act (2027)**.
+## Doelgroep
 
-## Target Audience
+Het project richt zich op:
 
-- Companies and industries developing IoT solutions
-- Organizations developing embedded software
-- Security professionals responsible for testing IoT solutions
-- Integrators and developers of associated digital solutions
+- **Fabrikanten**: Bedrijven die apparaten, sensoren en besturingssystemen voor slimme gebouwen ontwikkelen
+- **Integrators**: Organisaties die slimme bouwoplossingen voor klanten integreren
+- **Bouwheren & Gebouwbeheerders**: Eigenaren en beheerders die slimme gebouwsystemen inzetten en beheren
+- **Dienstverleners**: Bedrijven die installatie, onderhoud en ondersteuning bieden
 
 ---
 
-## Project Objectives
+## Projectdoelstellingen
 
-1. **Insight into Security Vulnerabilities** - Building expertise in identifying vulnerabilities in specific IoT ecosystems
+1. **Beveiligingsinzichten** - Verstrekken van inzichten met betrekking tot hedendaagse aanvallen, veelvoorkomende kwetsbaarheden, en beveiligingstechnologieën die tijdens de ontwikkeling kunnen helpen
 
-2. **Effective Integration of Security Tools** - Implementing customized security tools through guidelines, best practices, and tutorials
+2. **Best Practices & Tools** - Aanreiken van best practices en tools die de veerkracht van slimme gebouwen verhogen
 
-3. **Improved Security Analysis** - Enhancing IoT security through advanced testing techniques with measurable coverage metrics
+3. **Veilige Methodologieën** - Aanbieden van methodologieën om op een effectieve en veilige manier diensten zoals installatie en onderhoud te verwezenlijken
 
-4. **Secure Configuration & Management** - Infrastructure-as-Code for IoT deployment, security control, and incident handling
+4. **Kennisdisseminatie** - Organiseren van gebruikersgroep-bijeenkomsten en workshops voor kennisdeling met de industrie
 
-5. **Compliance with Regulations** - Ensuring compliance with RED-DA, CRA, IEC 62443-4.x, and prEN 303 645 standards
+5. **Industriesamenwerking** - Samenwerking met stakeholders uit het bedrijfsleven voor praktijkgerichte oplossingen
 
-6. **Knowledge Dissemination** - Sharing guidelines and best practices for securing IoT solutions through hands-on workshops
+---
+
+## Partners
+
+Dit TETRA-project wordt uitgevoerd door:
+
+- **KU Leuven - DistriNet Campus Gent** (Projectleider): Onderzoeksgroep gespecialiseerd in gedistribueerde systemen, softwareveiligheid en systeemveiligheid
+- **UCLL - Expertisecentrum Sustainable Resources**: Hogeschool met expertise in duurzame energiesystemen en technologie-integratie
+
+Het project wordt gefinancierd door **VLAIO** (Vlaams Agentschap Innoveren & Ondernemen) in het kader van het TETRA-programma.
+
+---
+
+<div style="text-align: center; margin: 3em 0;">
+  <a href="{{ '/knowledge-dissemination/' | relative_url }}" class="btn">Bekijk Bijeenkomsten & Evenementen</a>
+  <a href="{{ '/consortium/' | relative_url }}" class="btn">Ontdek de Partners</a>
+</div>

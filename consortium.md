@@ -7,19 +7,19 @@ permalink: /consortium/
 
 <div class="hero-section" style="background: linear-gradient(135deg, rgba(0, 150, 210, 0.85) 0%, rgba(0, 120, 180, 0.85) 100%), url('/ssb/assets/images/john-adams-1xIN4FMR78A-unsplash.jpg') center/cover; background-attachment: fixed; min-height: 300px;">
   <div style="max-width: 900px;">
-    <h1>🤝 Projectpartners</h1>
+    <h1>🤝 Partners</h1>
     <p>Kennismaken met de onderzo­eksinstellingen die het Secure Smart Buildings-project vooruit­brengen.</p>
   </div>
 </div>
 
-# Projectpartners
+# Partners
 
 
 ---
 
-## Research Partners
+## Onderzoekspartners
 
-### KU Leuven - DistriNet, Campus Ghent (Project Lead)
+### KU Leuven - DistriNet, Campus Ghent (Projectleider)
 
 <div class="partner-block partner-lead" style="background: #dbe3ee; border-radius: 10px; padding: 1.5em; margin-bottom: 2em; color: #222;">
   <div style="display: flex; align-items: center; gap: 1.5em; margin-bottom: 1em;">
@@ -32,7 +32,7 @@ permalink: /consortium/
   <div style="background: #f6fafd; border-radius: 8px; padding: 0.8em 1em; margin-bottom: 1em; display: flex; align-items: center; gap: 1.2em; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
     <span style="font-size: 1.5em; color: #0078b4;">📧</span>
     <div>
-      <div style="font-weight: 600; color: #1565c0;">Contact</div>
+      <div style="font-weight: 600; color: #1565c0;">Contactpersoon</div>
       <div style="margin-bottom: 0.2em;">Tom Cordemans</div>
       <a href="#" style="color: #1565c0; text-decoration: underline;" onclick="window.location.href='mailto:'+'tom.cordemans'+'@'+'kuleuven.be';return false;">tom.cordemans [at] kuleuven [dot] be</a>
     </div>
@@ -49,7 +49,7 @@ permalink: /consortium/
 
 <div class="partner-block partner-ucll" style="background: #dbe3ee; border-radius: 10px; padding: 1.5em; margin-bottom: 2em; color: #222;">
   <div style="display: flex; align-items: center; gap: 1.5em; margin-bottom: 1em;">
-    <img src="/ssb/assets/images/ucll_logo.png" alt="UCLL logo" style="height: 48px; width: auto; background: white; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.07); padding: 6px; border: 1px solid #d0d0d0;">
+    <img src="/ssb/assets/images/ucll_logo.svg" alt="UCLL logo" style="height: 48px; width: auto; background: white; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.07); padding: 6px; border: 1px solid #d0d0d0;">
     <div>
       <h4 style="margin: 0; color: #222;">UCLL - Expertisecentrum Sustainable Resources</h4>
     </div>
@@ -59,53 +59,53 @@ permalink: /consortium/
     <div>
       <div style="font-weight: 600; color: #1565c0;">Contact</div>
       <div style="margin-bottom: 0.2em;">Expertisecentrum Sustainable Resources</div>
-      <a href="#" style="color: #1565c0; text-decoration: underline;" onclick="window.location.href='mailto:'+'info'+'@'+'ucll.be';return false;">info [at] ucll [dot] be</a>
+      <a href="#" style="color: #1565c0; text-decoration: underline;" onclick="window.location.href='mailto:'+'info'+'@'+'ucll.be';return false;"></a>
     </div>
   </div>
   
-  <p>The Software Languages Lab (SOFT) is part of the Department of Computer Science at the Vrije Universiteit Brussel. Founded in 2009 through the merger of the Programming Technology Lab and the System and Software Engineering Lab, SOFT is a key research player in Brussels, Flanders, and beyond, with extensive experience in both research and industry collaboration.</p>
-  <p>SOFT focuses on the design, implementation, and application of better languages to support the software engineering cycle. This includes the design, formal study, efficient implementation, tool support, and application of programming languages. The lab also provides education closely linked to secure software development in distributed environments (e.g., Operating Systems, System Fundamentals, Parallelism and Distribution, Security in Computing, Big Data Processing & Cloud Computing).</p>
-  <p>SOFT is organized into several research clusters, including “Code Analysis and Manipulation” led by Professor De Roover, and “Reactive and Event-based Languages and Systems” (REBLS) co-led by Professor Nicolay. These clusters collaborate intensively on applied research in software development for a sustainable society, secure software, and smart AI-intensive systems. SOFT is also part of the Flanders Cybersecurity Initiative, resulting in high valorization potential for secure software.</p>
+  <p>UCLL (UC Leuven & Limburg) is een praktijkgerichte hogeschool die onderzoek en onderwijs combineert. Het Expertisecentrum Sustainable Resources begeleidt organisaties in de transitie naar duurzaamheid. We werken aan drie focuslijnen: valorisatie van afval- en reststromen, duurzame energiesystemen, en milieu & gezondheid.</p>
+  <p>Het Expertisecentrum beschikt over moderne lab-apparatuur en gedegen expertise in circulariteit en duurzame technologieën. We werken samen met bedrijven, steden en organisaties aan toegepast en praktijkgericht onderzoek. Onze multidisciplinaire teams combineren technologische, economische en design-expertise om duurzame oplossingen voor complexe problemen te realiseren.</p>
+  <p>In het kader van het Secure Smart Buildings-project draagt UCLL expertise aan op het gebied van duurzame energiesystemen en technologie-integratie in intelligente gebouwen. Dit sluit aan bij onze missie om organisaties te ondersteunen in het realiseren van veilige en duurzame bouwsystemen.</p>
   
-  <p><strong>Website:</strong> <a href="https://soft.vub.ac.be/" target="_blank" style="color: #1565c0; text-decoration: underline;">soft.vub.ac.be</a></p>
+  <p><strong>Website:</strong> <a href="https://research-expertise.ucll.be/nl/sustainable-resources" target="_blank" style="color: #1565c0; text-decoration: underline;">research-expertise.ucll.be/sustainable-resources</a></p>
 </div>
 
 ---
 
-## Target Audience & Stakeholders
+## Doelgroepen en Stakeholders
 
-The Secure Smart Buildings project targets all stakeholders in the smart building ecosystem:
+Het Secure Smart Buildings-project richt zich op alle stakeholders in het ecosysteem van intelligente gebouwen:
 
 <div style="background: #f8f8f8; border-radius: 10px; padding: 1.5em 1.5em 1em 1.5em; margin-bottom: 2em;">
-<strong>Stakeholder Groups</strong><br>
+<strong>Stakeholder-groepen</strong><br>
 <ul style="margin-top: 0.7em; margin-bottom: 0.7em; line-height: 1.7;">
-  <li><b>Manufacturers:</b> Companies developing smart building devices, sensors, and control systems.</li>
-  <li><b>Integrators:</b> Organizations integrating smart building solutions for clients.</li>
-  <li><b>Building Owners & Managers:</b> Property owners and facility managers deploying and managing smart building systems.</li>
-  <li><b>Operators:</b> Companies providing installation, maintenance, and support services for smart buildings.</li>
+  <li><b>Fabrikanten:</b> Bedrijven die apparaten, sensoren en besturingssystemen voor slimme gebouwen ontwikkelen.</li>
+  <li><b>Integratoren:</b> Organisaties die slimme bouwoplossingen voor klanten integreren.</li>
+  <li><b>Bouwheren & Gebouwbeheerders:</b> Eigenaren en beheerders van panden die slimme gebouwsystemen inzetten en beheren.</li>
+  <li><b>Dienstverleners:</b> Bedrijven die installatieservices, onderhoud en ondersteuning voor slimme gebouwen bieden.</li>
 </ul>
 </div>
 
-## Collaboration Opportunities
+## Samenwerkingsmogelijkheden
 
-Organizations interested in:
+Organisaties die geïnteresseerd zijn in:
 
-- Secure smart building design and deployment
-- Understanding current threats and vulnerabilities in smart buildings
-- Implementing best practices and security standards
-- Participating in user group meetings and workshops
-- Contributing use cases and real-world scenarios
-- Accessing security resources and guidance documents
+- Ontwerp en implementatie van veilige intelligente gebouwen
+- Begrip van huidige dreigingen en kwetsbaarheden in slimme gebouwen
+- Implementatie van best practices en beveiligingsnormen
+- Deelname aan user group-bijeenkomsten en workshops
+- Bijdragen van use cases en praktijkscenario's
+- Toegang tot beveiligingsmiddelen en richtlijndocumenten
 
-### Get Involved
+### Samenwerken
 
 
-If your organization is interested in collaborating with the Secure Smart Buildings project, please contact us:
+Als uw organisatie geïnteresseerd is in samenwerking met het Secure Smart Buildings-project, neem dan contact met ons op:
 
 <div style="background: #f6fafd; border-radius: 8px; padding: 0.8em 1em; margin: 1.2em 0 2em 0; display: flex; align-items: center; gap: 1.2em; box-shadow: 0 2px 8px rgba(0,0,0,0.04); max-width: 450px;">
   <span style="font-size: 1.5em; color: #0078b4;">📧</span>
   <div>
-    <div style="font-weight: 600; color: #1565c0;">Contact Person</div>
+    <div style="font-weight: 600; color: #1565c0;">Contactpersoon</div>
     <div style="margin-bottom: 0.2em;">Tom Cordemans <span style="color: #888; font-size: 0.95em;">(KU Leuven, DistriNet, Campus Ghent)</span></div>
     <a href="#" style="color: #1565c0; text-decoration: underline; display: block;" onclick="window.location.href='mailto:'+'tom.cordemans'+'@'+'kuleuven.be';return false;">tom.cordemans [at] kuleuven [dot] be</a>
   </div>
@@ -114,31 +114,31 @@ If your organization is interested in collaborating with the Secure Smart Buildi
 
 ---
 
-## Benefits of Partnership
+## Voordelen van partnerschap
 
 <div class="benefits-grid">
   <div class="benefit-item benefit-knowledge">
     <div class="benefit-icon">�</div>
-    <h4>Security Insights</h4>
-    <p>Understand current attacks, vulnerabilities, and security technologies for smart buildings</p>
+    <h4>Beveiligingsinzichten</h4>
+    <p>Begrijp huidige aanvallen, kwetsbaarheden en beveiligingstechnologieën voor slimme gebouwen</p>
   </div>
   
   <div class="benefit-item benefit-compliance">
     <div class="benefit-icon">✓</div>
-    <h4>Best Practices</h4>
-    <p>Access proven methodologies and tools to increase the resilience of smart building systems</p>
+    <h4>Aanbevolen Werkwijzen</h4>
+    <p>Toegang tot bewezen methodologieën en hulpmiddelen om de veerkracht van slimme bouwsystemen te vergroten</p>
   </div>
   
   <div class="benefit-item benefit-network">
     <div class="benefit-icon">🤝</div>
-    <h4>Expert Community</h4>
-    <p>Connect with researchers, integrators, manufacturers, and building managers</p>
+    <h4>Deskundige gemeenschap</h4>
+    <p>Maak verbinding met onderzoekers, integrators, fabrikanten en gebouwbeheerders</p>
   </div>
   
   <div class="benefit-item benefit-training">
     <div class="benefit-icon">📚</div>
-    <h4>Hands-on Workshops</h4>
-    <p>Participate in user group meetings and practical training sessions</p>
+    <h4>Praktische workshops</h4>
+    <p>Deelnemen aan user group-bijeenkomsten en praktische trainingen</p>
   </div>
 </div>
 

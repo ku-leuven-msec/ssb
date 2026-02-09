@@ -1,34 +1,127 @@
 ---
 layout: page
-title: Knowledge Dissemination
+title: Kennisdisseminatie
 permalink: /knowledge-dissemination/
 ---
 
 <div class="hero-section" style="background: linear-gradient(135deg, rgba(0, 150, 210, 0.85) 0%, rgba(0, 120, 180, 0.85) 100%), url('/ssb/assets/images/john-adams-1xIN4FMR78A-unsplash.jpg') center/cover; background-attachment: fixed; min-height: 300px;">
   <div style="max-width: 900px;">
-    <h1>📄 Knowledge Dissemination & Events</h1>
-    <p>User group meetings, presentations, workshop materials, and resources from the Secure Smart Buildings project.</p>
+    <h1>📄 Kennisdisseminatie & Evenementen</h1>
+    <p>Bijeenkomsten van de gebruikersgroep, presentaties, workshop-materialen en bronnen uit het Secure Smart Buildings-project.</p>
   </div>
 </div>
 
-# User Group Meetings
+# Bijeenkomsten Gebruikersgroep
 
-Our project organizes regular User Group meetings to share knowledge, discuss findings, and engage with industry stakeholders including manufacturers, integrators, building managers, and service providers.
+Het project organiseert regelmatige bijeenkomsten van de gebruikersgroep om kennis te delen, bevindingen te bespreken en samen te werken met stakeholders uit het bedrijfsleven, waaronder fabrikanten, integrators, gebouwbeheerders en dienstverleners.
 
-{% for event in site.dissemination %}
-<div class="event-item" style="margin: 2em 0; padding: 1.5em; background: #f9f9f9; border-radius: 8px; border-left: 4px solid #0096d2;">
-  <h3 style="margin-top: 0;"><a href="{{ event.url | relative_url }}" style="color: #1a1a1a; text-decoration: none;">{{ event.title }}</a></h3>
-  <p class="meta" style="color: #666; font-size: 0.9em; margin: 0.5em 0;">
-    {% if event.date %}
-      {{ event.date | date: "%B %d, %Y" }}
-    {% endif %}
-    {% if event.event_type %}
-      • {{ event.event_type }}
-    {% endif %}
-  </p>
-  <a href="{{ event.url | relative_url }}" style="color: #0078b4; font-weight: 600;">View event details & presentations →</a>
+## 1ste Bijeenkomst Gebruikersgroep (3 december 2024)
+
+<div style="margin: 2em 0; padding: 1.5em; background: #f9f9f9; border-radius: 8px; border-left: 4px solid #0096d2;" markdown="1">
+
+**Agenda:**
+
+- Welkom
+- Korte introductie KU Leuven (DistriNet Research Unit) en UCLL (Expertisecentrum Sustainable Resources)
+- TETRA-project Secure Smart Buildings (Roadmap)
+- Korte introductie van de stuurgroepleden
+- Voorstelling aanpak en speerpunten
+- Feedbackmoment
+
 </div>
-{% endfor %}
+
+## 2de Bijeenkomst Gebruikersgroep (15 mei 2025)
+
+<div style="margin: 2em 0; padding: 1.5em; background: #f9f9f9; border-radius: 8px; border-left: 4px solid #0096d2;" markdown="1">
+
+**Agenda:**
+
+- Welkom
+- Resultaten enquête bespreken
+- Presentatie en discussie omtrent Secure Remote Access
+- Presentatie en demonstratie omtrent Network reconnaissance (low hanging fruit)
+- Demonstratie (incl. tech talk) Eufy Deurbel
+
+</div>
+
+## 3de Bijeenkomst Gebruikersgroep (18 november 2025)
+
+<div style="margin: 2em 0; padding: 1.5em; background: #f9f9f9; border-radius: 8px; border-left: 4px solid #0096d2;" markdown="1">
+
+**Agenda:**
+
+- Welkom
+- Presentatie omtrent regelgeving & standaarden voor cyberveilige omgevingen
+- Workshops:
+  - Local Network Management
+  - Asset Management
+  - Incident Response Plan (Tabletop exercise)
+
+</div>
+
+---
+
+## Publicaties & Media
+
+Tijdens het project zijn verschillende artikelen, podcasts en reportages verschenen over smart building security en het Secure Smart Buildings-project:
+
+<div style="margin: 2em 0;" markdown="1">
+
+### Artikelen
+
+<div style="margin: 1.5em 0; padding: 1em; background: #f9f9f9; border-radius: 8px; border-left: 4px solid #0096d2;">
+  <strong><a href="https://cybersecurity-bites.be/ict-beheer/slimme-gebouwen-onder-vuur/" target="_blank" style="color: #1a1a1a; text-decoration: none;">Slimme gebouwen onder vuur?</a></strong><br>
+  <em>Cybersecurity Bites</em><br>
+  <a href="https://cybersecurity-bites.be/ict-beheer/slimme-gebouwen-onder-vuur/" target="_blank" style="color: #0078b4; font-size: 0.9em;">Lees artikel →</a>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1em; background: #f9f9f9; border-radius: 8px; border-left: 4px solid #0096d2;">
+  <strong><a href="https://bouwkroniek.be/beveiliging/hoe-goed-moet-je-je-smartbuilding-beveiligen-net-iets-beter-dan-je-buurman-52202" target="_blank" style="color: #1a1a1a; text-decoration: none;">Hoe goed moet je je smart building beveiligen?</a></strong><br>
+  <em>Bouwkroniek</em><br>
+  <a href="https://bouwkroniek.be/beveiliging/hoe-goed-moet-je-je-smartbuilding-beveiligen-net-iets-beter-dan-je-buurman-52202" target="_blank" style="color: #0078b4; font-size: 0.9em;">Lees artikel →</a>
+</div>
+
+<div style="margin: 1.5em 0; padding: 1em; background: #f9f9f9; border-radius: 8px; border-left: 4px solid #0096d2;">
+  <strong><a href="https://cybersecurity-bites.be/ict-beheer/het-nut-en-gebruik-van-tabletop-exercises-voorbereiden-op-digitale-crisissituaties/" target="_blank" style="color: #1a1a1a; text-decoration: none;">Het nut en gebruik van Tabletop Exercises</a></strong><br>
+  <em>Cybersecurity Bites</em><br>
+  Voorbereiden op digitale crisissituaties<br>
+  <a href="https://cybersecurity-bites.be/ict-beheer/het-nut-en-gebruik-van-tabletop-exercises-voorbereiden-op-digitale-crisissituaties/" target="_blank" style="color: #0078b4; font-size: 0.9em;">Lees artikel →</a>
+</div>
+
+### Podcast
+
+<div style="margin: 1.5em 0; padding: 1em; background: #f9f9f9; border-radius: 8px; border-left: 4px solid #0096d2;">
+  <strong><a href="https://cybersecuritycoalition.be/resource/smart-office-security/" target="_blank" style="color: #1a1a1a; text-decoration: none;">🎙️ Smart Office Security</a></strong><br>
+  <em>Cybersecurity Coalition</em><br>
+  <a href="https://cybersecuritycoalition.be/resource/smart-office-security/" target="_blank" style="color: #0078b4; font-size: 0.9em;">Beluister podcast →</a>
+</div>
+
+### Reportage
+
+<div style="margin: 1.5em 0; padding: 1em; background: #f9f9f9; border-radius: 8px; border-left: 4px solid #0096d2;">
+  <strong><a href="https://www.dobbit.be/nl/dossier/EPRbe2540W01_03/slimme-gebouwen-cyberveiligheid-is-niet-te-ko" target="_blank" style="color: #1a1a1a; text-decoration: none;">Slimme gebouwen: Cyberveiligheid is niet te koop. Het is ingebouwd!</a></strong><br>
+  <em>Dobbit</em><br>
+  <a href="https://www.dobbit.be/nl/dossier/EPRbe2540W01_03/slimme-gebouwen-cyberveiligheid-is-niet-te-ko" target="_blank" style="color: #0078b4; font-size: 0.9em;">Bekijk reportage →</a>
+</div>
+
+ </div>
+
+---
+
+## Projectresultaten
+
+Om organisaties te ondersteunen bij het beveiligen van intelligente gebouwen worden tijdens het project verschillende hulpmiddelen en best practices ontwikkeld:
+
+<div style="margin: 2em 0; padding: 1.5em; background: #f9f9f9; border-radius: 8px;" markdown="1">
+- **Beveiligingsrichtlijnen** voor smart building systemen
+- **Best practice handleidingen** voor fabrikanten en integratoren
+- **Assessment methodologieën** voor beveiligingsevaluaties
+- **Training materialen** en workshops
+- **Case studies** uit de praktijk
+
+Deze resources zullen **na afloop van het project (eind 2026)** openbaar beschikbaar worden gemaakt op deze website. Voor meer informatie neem contact op via de projectleiders op de <a href="{{ site.baseurl }}/consortium">Partners</a> pagina.
+</div>
+
 <!-- 
 ---
 

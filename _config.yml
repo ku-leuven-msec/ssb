@@ -12,7 +12,6 @@ plugins:
 header_pages:
   - index.md
   - knowledge-dissemination.md
-  - blog.md
   - consortium.md
 
 # Project information
