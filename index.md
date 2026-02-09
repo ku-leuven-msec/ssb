@@ -7,7 +7,7 @@ title: Home
   <div style="max-width: 900px;">
     <h1>🏢 Secure Smart Buildings</h1>
     <h2 style="color: white; border: none; padding: 0; margin: 0;">Cyberveiligheid voor slimme gebouwen</h2>
-    <p>Het verwerven van inzicht in adequate beveiliging, relevante regelgeving en beveiligingsstandaarden voor slimme gebouwen. Een TETRA-project voor fabrikanten, integrators, bouwheren, gebouwbeheerders en dienstverleners.</p>
+    <p>Het verwerven van inzicht in adequate beveiliging, relevante regelgeving en beveiligingsstandaarden voor slimme gebouwen. Een TETRA-project voor fabrikanten, integratoren, bouwheren, gebouwbeheerders en dienstverleners.</p>
     <p><a href="#about" class="btn" style="margin-top: 20px;">Meer info</a></p>
   </div>
 </div>
