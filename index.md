@@ -6,7 +6,7 @@ title: Home
 <div class="hero-section" style="background: linear-gradient(135deg, rgba(0, 150, 210, 0.85) 0%, rgba(0, 120, 180, 0.85) 100%), url('/ssb/assets/images/john-adams-1xIN4FMR78A-unsplash.jpg') center/cover; background-attachment: fixed;">
   <div style="max-width: 900px;">
     <h1>🏢 Secure Smart Buildings</h1>
-    <h2 style="color: white; border: none; padding: 0; margin: 0;">Cybersecurity voor slimme gebouwen</h2>
+    <h2 style="color: white; border: none; padding: 0; margin: 0;">Cyberveiligheid voor slimme gebouwen</h2>
     <p>Het verwerven van inzicht in adequate beveiliging, relevante regelgeving en beveiligingsstandaarden voor slimme gebouwen. Een TETRA-project voor fabrikanten, integrators, bouwheren, gebouwbeheerders en dienstverleners.</p>
     <p><a href="#about" class="btn" style="margin-top: 20px;">Meer info</a></p>
   </div>
