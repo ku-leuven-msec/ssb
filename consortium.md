@@ -1,18 +1,18 @@
 ---
 layout: page
-title: Consortium
+title: Partners
 permalink: /consortium/
 ---
 
 
-<div class="hero-section" style="background: linear-gradient(135deg, rgba(0, 150, 210, 0.85) 0%, rgba(0, 120, 180, 0.85) 100%), url('/bugatti/assets/images/john-adams-1xIN4FMR78A-unsplash.jpg') center/cover; background-attachment: fixed; min-height: 300px;">
+<div class="hero-section" style="background: linear-gradient(135deg, rgba(0, 150, 210, 0.85) 0%, rgba(0, 120, 180, 0.85) 100%), url('/ssb/assets/images/john-adams-1xIN4FMR78A-unsplash.jpg') center/cover; background-attachment: fixed; min-height: 300px;">
   <div style="max-width: 900px;">
-    <h1>🤝 Project Consortium</h1>
-    <p>Meet the research institutions and industry partners driving the BUGATTI project forward.</p>
+    <h1>🤝 Projectpartners</h1>
+    <p>Kennismaken met de onderzo­eksinstellingen die het Secure Smart Buildings-project vooruit­brengen.</p>
   </div>
 </div>
 
-# Project Consortium
+# Projectpartners
 
 
 ---
@@ -23,9 +23,9 @@ permalink: /consortium/
 
 <div class="partner-block partner-lead" style="background: #dbe3ee; border-radius: 10px; padding: 1.5em; margin-bottom: 2em; color: #222;">
   <div style="display: flex; align-items: center; gap: 1.5em; margin-bottom: 1em;">
-    <img src="/bugatti/assets/images/kul_distrinet.png" alt="KU Leuven logo" style="height: 48px; width: auto; background: white; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.07); padding: 6px; border: 1px solid #d0d0d0;">
+    <img src="/ssb/assets/images/kul_distrinet.png" alt="KU Leuven logo" style="height: 48px; width: auto; background: white; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.07); padding: 6px; border: 1px solid #d0d0d0;">
     <div>
-      <h4 style="margin: 0; color: #222;">KU Leuven, DistriNet Campus Ghent</h4>
+      <h4 style="margin: 0; color: #222;">KU Leuven, DistriNet Campus Gent</h4>
 
     </div>
   </div>
@@ -33,33 +33,33 @@ permalink: /consortium/
     <span style="font-size: 1.5em; color: #0078b4;">📧</span>
     <div>
       <div style="font-weight: 600; color: #1565c0;">Contact</div>
-      <div style="margin-bottom: 0.2em;">Jorn Lapon and Vincent Naessens</div>
-      <a href="#" style="color: #1565c0; text-decoration: underline;" onclick="window.location.href='mailto:'+'jorn.lapon'+'@'+'kuleuven.be';return false;">jorn.lapon [at] kuleuven [dot] be</a>
+      <div style="margin-bottom: 0.2em;">Tom Cordemans</div>
+      <a href="#" style="color: #1565c0; text-decoration: underline;" onclick="window.location.href='mailto:'+'tom.cordemans'+'@'+'kuleuven.be';return false;">tom.cordemans [at] kuleuven [dot] be</a>
     </div>
   </div>
   
-  <p>DistriNet@Gent, located at the Technology Campus Ghent, is part of the Department of Computer Science within the Faculty of Engineering Technology at KU Leuven. The unit has extensive experience in setting up and executing innovation projects in collaboration with industry. Its strong ties to the Faculty of Engineering Technology ensure that research is highly practice-oriented and aligned with the needs of companies.</p>
-  <p>In recent years, DistriNet@Gent has been integrated into the larger DistriNet research group at KU Leuven in Heverlee. The mission of DistriNet@Gent is to conduct applied research and knowledge dissemination in the domains of Distributed Systems, Software Security, and System Security. It serves as a key hub for valorization within these domains for the Faculty of Engineering Technology.</p>
-  <p>The central research theme is the development and analysis of software systems with advanced security and privacy requirements. Over the past decade, the group has built significant expertise in this area. Its extensive industry network is the result of numerous collaborations and services provided to small, medium, and large technology companies focused on secure software development.</p>
+  <p>DistriNet@Gent, gevestigd op de Technologiecampus Gent, maakt deel uit van de Vakgroep Informatica in de Faculteit Ingenieurswetenschappen van de KU Leuven. De eenheid heeft uitgebreide ervaring met het opzetten en uitvoeren van innovatieprojecten in samenwerking met de industrie. Het heeft sterke banden met de Faculteit Ingenieurswetenschappen, wat zorgt voor praktijkgeoriënteerd onderzoek dat aansluit bij de behoeften van bedrijven.</p>
+  <p>De afgelopen jaren is DistriNet@Gent geïntegreerd in de grotere DistriNet-onderzoeksgroep van de KU Leuven in Heverlee. De missie van DistriNet@Gent is het uitvoeren van toegepast onderzoek en kennisdisseminatie op het gebied van Gedistribueerde Systemen, Softwareveiligheid en Systeemveiligheid. Het speelt een sleutelrol in valorisatie binnen deze domeinen voor de Faculteit Ingenieurswetenschappen.</p>
+  <p>Het centrale onderzoeksthema is de ontwikkeling en analyse van softwaresystemen met geavanceerde veiligheids- en privacyvereisten. In het afgelopen decennium heeft de groep belangrijke expertise opgebouwd. Het uitgebreide industrienetwerk is het resultaat van talrijke samenwerkingen en diensten voor kleine, middelgrote en grote technologiebedrijven die zich richten op veilige softwareontwikkeling.</p>
   
   <p><strong>Website:</strong> <a href="https://iiw.kuleuven.be/onderzoek/distrinet/" target="_blank" style="color: #1565c0; text-decoration: underline;">iiw.kuleuven.be/onderzoek/distrinet/</a></p>
 </div>
 
-### Vrije Universiteit Brussel - Software Languages Lab
+### UCLL - Expertisecentrum Sustainable Resources
 
-<div class="partner-block partner-vub" style="background: #dbe3ee; border-radius: 10px; padding: 1.5em; margin-bottom: 2em; color: #222;">
+<div class="partner-block partner-ucll" style="background: #dbe3ee; border-radius: 10px; padding: 1.5em; margin-bottom: 2em; color: #222;">
   <div style="display: flex; align-items: center; gap: 1.5em; margin-bottom: 1em;">
-    <img src="/bugatti/assets/images/vub_soft.png" alt="VUB logo" style="height: 48px; width: auto; background: white; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.07); padding: 6px; border: 1px solid #d0d0d0;">
+    <img src="/ssb/assets/images/ucll_logo.png" alt="UCLL logo" style="height: 48px; width: auto; background: white; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.07); padding: 6px; border: 1px solid #d0d0d0;">
     <div>
-      <h4 style="margin: 0; color: #222;">VUB - SOFT Lab</h4>
+      <h4 style="margin: 0; color: #222;">UCLL - Expertisecentrum Sustainable Resources</h4>
     </div>
   </div>
   <div style="background: #f6fafd; border-radius: 8px; padding: 0.8em 1em; margin-bottom: 1em; display: flex; align-items: center; gap: 1.2em; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
     <span style="font-size: 1.5em; color: #0078b4;">📧</span>
     <div>
       <div style="font-weight: 600; color: #1565c0;">Contact</div>
-      <div style="margin-bottom: 0.2em;">Coen De Roover and Jens Nicolay</div>
-      <a href="#" style="color: #1565c0; text-decoration: underline;" onclick="window.location.href='mailto:'+'coen.deroover'+'@'+'vub.be';return false;">coen.deroover [at] vub [dot] be</a>
+      <div style="margin-bottom: 0.2em;">Expertisecentrum Sustainable Resources</div>
+      <a href="#" style="color: #1565c0; text-decoration: underline;" onclick="window.location.href='mailto:'+'info'+'@'+'ucll.be';return false;">info [at] ucll [dot] be</a>
     </div>
   </div>
   
@@ -82,7 +82,7 @@ The Secure Smart Buildings project targets all stakeholders in the smart buildin
   <li><b>Manufacturers:</b> Companies developing smart building devices, sensors, and control systems.</li>
   <li><b>Integrators:</b> Organizations integrating smart building solutions for clients.</li>
   <li><b>Building Owners & Managers:</b> Property owners and facility managers deploying and managing smart building systems.</li>
-  <li><b>Service Providers:</b> Companies providing installation, maintenance, and support services for smart buildings.</li>
+  <li><b>Operators:</b> Companies providing installation, maintenance, and support services for smart buildings.</li>
 </ul>
 </div>
 
@@ -163,13 +163,13 @@ If your organization is interested in collaborating with the Secure Smart Buildi
   font-weight: 500;
 }
 
-.partner-vub {
+.partner-ucll {
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   color: white;
   border-top-color: #a8c5ff;
 }
 
-.partner-vub a {
+.partner-ucll a {
   color: #fff;
   text-decoration: underline;
   font-weight: 500;
