@@ -23,7 +23,7 @@ title: Home
       </div>
       <div class="capability-card">
         <div class="icon">🛡️</div>
-        <h3>Best Practices & Tools</h3>
+        <h3>Best Practices & tools</h3>
         <p>Praktische richtlijnen en tools die de veerkracht van slimme gebouwen verhogen.</p>
       </div>
       <div class="capability-card">
@@ -33,8 +33,8 @@ title: Home
       </div>
       <div class="capability-card">
         <div class="icon">🔧</div>
-        <h3>Veilige Methoden</h3>
-        <p>Methodologieën voor effectieve en veilige installatie, onderhoud en dienstverlening.</p>
+        <h3>Veilige werkwijzen</h3>
+        <p>Methodologieën gericht op cyberveiligheid in installatie, onderhoud en dienstverlening.</p>
       </div>
     </div>
   </div>
