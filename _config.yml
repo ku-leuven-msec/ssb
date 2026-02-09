@@ -1,6 +1,6 @@
-title: "BUGATTI - Embedded Security Testing and Automation"
-description: "A Vlaio/COOCK project focused on IoT and embedded security testing and automation"
-baseurl: "/bugatti"
+title: "Secure Smart Buildings"
+description: "A TETRA project focused on cybersecurity for smart buildings, IoT systems, and building management"
+baseurl: "/ssb"
 url: "https://ku-leuven-msec.github.io"
 
 # Build settings
@@ -17,9 +17,9 @@ header_pages:
 
 # Project information
 project:
-  start_date: "2025"
-  type: "Vlaio/COOCK Tech Transfer Project"
-  lead: "KU Leuven - DistriNet"
+  start_date: "2024"
+  type: "TETRA Project"
+  lead: "KU Leuven - DistriNet Campus Gent"
 
 # Exclude from processing
 exclude:

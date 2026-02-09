@@ -1,6 +1,6 @@
-# Contributing to the BUGATTI Website
+# Contributing to the Secure Smart Buildings Website
 
-Thank you for contributing to the BUGATTI project website! This guide will help you add content and make updates.
+Thank you for contributing to the Secure Smart Buildings project website! This guide will help you add content and make updates.
 
 ## Quick Start
 
@@ -30,7 +30,7 @@ The easiest way to contribute is through GitHub's web interface - no local setup
    date: 2024-03-15
    event: "Event Name (e.g., Quarterly Meeting Q1)"
    description: "A brief description of what the presentation covers"
-   slides: "/bugatti/assets/presentations/your-file.pdf"
+   slides: "/ssb/assets/presentations/your-file.pdf"
    ---
    ```
 
@@ -44,8 +44,8 @@ If you prefer working locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/ku-leuven-msec/bugatti.git
-cd bugatti
+git clone https://github.com/ku-leuven-msec/secure-smart-buildings.git
+cd secure-smart-buildings
 
 # Add your files
 cp ~/Downloads/presentation.pdf assets/presentations/
@@ -135,7 +135,7 @@ All pages use Markdown formatting. [Markdown Guide](https://www.markdownguide.or
 2. Reference in markdown:
 
 ```markdown
-![Alt text](/bugatti/assets/images/your-image.jpg)
+![Alt text](/ssb/assets/images/your-image.jpg)
 ```
 
 ## Testing Locally (Optional)
@@ -149,7 +149,7 @@ bundle install
 # Start local server
 bundle exec jekyll serve
 
-# Open http://localhost:4000/bugatti in your browser
+# Open http://localhost:4000/ssb in your browser
 ```
 
 ## Style Guidelines
@@ -163,7 +163,7 @@ bundle exec jekyll serve
 ## Getting Help
 
 - **Technical issues:** Open an issue in the repository
-- **Content questions:** Contact bugatti@cs.kuleuven.be
+- **Content questions:** Contact ssb@distrinet.cs.kuleuven.be
 
 ## Review Process
 

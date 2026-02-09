@@ -4,16 +4,16 @@ title: Knowledge Dissemination
 permalink: /knowledge-dissemination/
 ---
 
-<div class="hero-section" style="background: linear-gradient(135deg, rgba(0, 150, 210, 0.85) 0%, rgba(0, 120, 180, 0.85) 100%), url('/bugatti/assets/images/john-adams-1xIN4FMR78A-unsplash.jpg') center/cover; background-attachment: fixed; min-height: 300px;">
+<div class="hero-section" style="background: linear-gradient(135deg, rgba(0, 150, 210, 0.85) 0%, rgba(0, 120, 180, 0.85) 100%), url('/ssb/assets/images/john-adams-1xIN4FMR78A-unsplash.jpg') center/cover; background-attachment: fixed; min-height: 300px;">
   <div style="max-width: 900px;">
-    <h1>📊 Knowledge Dissemination</h1>
-    <p>Presentations, articles, papers, and resources from the BUGATTI project.</p>
+    <h1>📄 Knowledge Dissemination & Events</h1>
+    <p>User group meetings, presentations, workshop materials, and resources from the Secure Smart Buildings project.</p>
   </div>
 </div>
 
-# Past Events & Workshops
+# User Group Meetings
 
-Our project organizes regular events to share knowledge and engage with the IoT security community.
+Our project organizes regular User Group meetings to share knowledge, discuss findings, and engage with industry stakeholders including manufacturers, integrators, building managers, and service providers.
 
 {% for event in site.dissemination %}
 <div class="event-item" style="margin: 2em 0; padding: 1.5em; background: #f9f9f9; border-radius: 8px; border-left: 4px solid #0096d2;">

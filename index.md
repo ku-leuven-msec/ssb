@@ -3,11 +3,11 @@ layout: default
 title: Home
 ---
 
-<div class="hero-section" style="background: linear-gradient(135deg, rgba(0, 150, 210, 0.85) 0%, rgba(0, 120, 180, 0.85) 100%), url('/bugatti/assets/images/john-adams-1xIN4FMR78A-unsplash.jpg') center/cover; background-attachment: fixed;">
+<div class="hero-section" style="background: linear-gradient(135deg, rgba(0, 150, 210, 0.85) 0%, rgba(0, 120, 180, 0.85) 100%), url('/ssb/assets/images/john-adams-1xIN4FMR78A-unsplash.jpg') center/cover; background-attachment: fixed;">
   <div style="max-width: 900px;">
-    <h1><img src="/bugatti/assets/images/bugatti-logo.svg" alt="BUGATTI" style="height: 50px; width: 50px; display: inline-block; vertical-align: middle; margin-right: 10px;"> BUGATTI</h1>
-    <h2 style="color: white; border: none; padding: 0; margin: 0;">Embedded Security Testing and Automation</h2>
-    <p>Enhancing the security of IoT and embedded solutions through advanced security testing and automation techniques.</p>
+    <h1>🏢 Secure Smart Buildings</h1>
+    <h2 style="color: white; border: none; padding: 0; margin: 0;">Cybersecurity for Intelligent Building Systems</h2>
+    <p>Securing smart buildings through practical threat modeling, security guidance, and industry collaboration for manufacturers, integrators, building managers, and service providers.</p>
     <p><a href="#about" class="btn" style="margin-top: 20px;">Learn More</a></p>
   </div>
 </div>
@@ -17,24 +17,24 @@ title: Home
     <h2>Key Features</h2>
     <div class="capabilities-grid">
       <div class="capability-card">
-        <div class="icon">🧪</div>
-        <h3>Advanced Testing</h3>
-        <p>Sophisticated security testing tools and methods accessible to companies and industries developing IoT solutions.</p>
+        <div class="icon">🔍</div>
+        <h3>Security Insights</h3>
+        <p>Understanding current attacks, vulnerabilities, and security technologies for smart building development.</p>
       </div>
       <div class="capability-card">
         <div class="icon">🛡️</div>
-        <h3>Security Automation</h3>
-        <p>Robust tools for secure configuration, deployment, and management of IoT solutions ensuring sustainable security.</p>
+        <h3>Best Practices & Tools</h3>
+        <p>Practical best practices and tools that increase the resilience of smart building systems.</p>
       </div>
       <div class="capability-card">
-        <div class="icon">📚</div>
-        <h3>Knowledge Transfer</h3>
-        <p>Hands-on tutorials and workshops providing practical knowledge and skills for security integration.</p>
+        <div class="icon">👥</div>
+        <h3>Stakeholder Engagement</h3>
+        <p>Knowledge dissemination and user group meetings with manufacturers, integrators, and building managers.</p>
       </div>
       <div class="capability-card">
         <div class="icon">🔧</div>
-        <h3>Compliance Ready</h3>
-        <p>Aligned with emerging regulations (Red Delegated Act 2025, Cyber Resilience Act 2027) and standards like IEC 62443.</p>
+        <h3>Safe Methodologies</h3>
+        <p>Methodologies for secure installation, maintenance, and management of smart building services.</p>
       </div>
     </div>
   </div>
@@ -42,22 +42,22 @@ title: Home
 
 <div class="three-levels-section">
   <div class="wrapper">
-    <h2>Our Three-Level Approach</h2>
+    <h2>Project Goals</h2>
     <div class="levels-container">
       <div class="level-card">
         <div class="level-number">1</div>
-        <h3>Binary Analysis</h3>
-        <p>Analysis of compiled software to detect vulnerabilities not caught during earlier development stages. Essential for legacy code security assessment.</p>
+        <h3>Security Awareness</h3>
+        <p>Provide insights into current attacks, common vulnerabilities, and security technologies for smart building systems.</p>
       </div>
       <div class="level-card">
         <div class="level-number">2</div>
-        <h3>Device Security</h3>
-        <p>Detection of known and unknown vulnerabilities in IoT devices through pentests and thorough security analysis of firmware.</p>
+        <h3>Practical Guidance</h3>
+        <p>Deliver best practices and tools to improve the security and resilience of smart buildings.</p>
       </div>
       <div class="level-card">
         <div class="level-number">3</div>
-        <h3>Infrastructure & Management</h3>
-        <p>Secure configuration, management, and orchestration of IoT solutions across various devices in the ecosystem.</p>
+        <h3>Secure Operations</h3>
+        <p>Establish methodologies for safe and secure installation, maintenance, and management of building systems.</p>
       </div>
     </div>
   </div>

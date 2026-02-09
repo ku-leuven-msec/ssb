@@ -1,17 +1,17 @@
-# BUGATTI Project Website
+# Secure Smart Buildings Project Website
 
 
-This repository hosts the static website for the BUGATTI (Building security Guidance, Applying pracTical Threat modellIng) project — a Vlaio/COOCK tech transfer project led by KU Leuven's DistriNet research group.
+This repository hosts the static website for the Secure Smart Buildings (SSB) project — a TETRA project led by KU Leuven's DistriNet research group in partnership with UCLL.
 
-🌐 **Live Site:** [https://ku-leuven-msec.github.io/bugatti](https://ku-leuven-msec.github.io/bugatti)
+🌐 **Live Site:** [https://ku-leuven-msec.github.io/ssb](https://ku-leuven-msec.github.io/ssb)
 
 ## About the Project
 
-BUGATTI bridges the gap between academic security research and practical industry applications, focusing on:
-- Practical threat modeling methodologies
-- Actionable security guidance
-- Industry collaboration and knowledge transfer
-- Dissemination of research findings
+Secure Smart Buildings focuses on enhancing cybersecurity for intelligent building systems. The project delivers:
+- Security insights about attacks, vulnerabilities, and technologies for smart buildings
+- Best practices and tools to increase resilience
+- Methodologies for secure installation and management of building systems
+- User group meetings and knowledge dissemination with industry stakeholders
 
 
 ## Website Structure & Features
@@ -45,7 +45,7 @@ bundle install
 # Run local server
 bundle exec jekyll serve
 
-# Visit http://localhost:4000/bugatti
+# Visit http://localhost:4000/ssb
 ```
 
 
@@ -58,7 +58,7 @@ bundle exec jekyll serve
 
 2. **Create or update a markdown entry in `presentations.md`** to link to your PDF:
    ```markdown
-   - [Your Presentation Title](/bugatti/assets/presentations/your-presentation.pdf) — Speaker Name, 2025-03-15
+   - [Your Presentation Title](/ssb/assets/presentations/your-presentation.pdf) — Speaker Name, 2025-03-15
    ```
 
 3. **Commit and push:**

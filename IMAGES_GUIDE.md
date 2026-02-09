@@ -1,4 +1,4 @@
-# Adding Unsplash Images to BUGATTI Site
+# Adding Unsplash Images to Secure Smart Buildings Site
 
 This guide shows how to enhance the website with free, high-quality images from Unsplash.
 

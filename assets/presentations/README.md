@@ -7,4 +7,4 @@ To add a real presentation:
 2. Add your PDF presentation file here
 3. Update the corresponding markdown file in `_presentations/` to reference your PDF
 
-Example: `bugatti-kickoff-2024.pdf`
+Example: `ssb-kickoff-2024.pdf`

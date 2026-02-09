@@ -72,44 +72,42 @@ permalink: /consortium/
 
 ---
 
+## Target Audience & Stakeholders
 
-## Industry Advisory Board
-The BUGATTI project is guided by an advisory board of industry partners who provide practical insights, real-world use cases, and validation of research outcomes. This ensures that project deliverables are immediately applicable in industry settings.
-
+The Secure Smart Buildings project targets all stakeholders in the smart building ecosystem:
 
 <div style="background: #f8f8f8; border-radius: 10px; padding: 1.5em 1.5em 1em 1.5em; margin-bottom: 2em;">
-<strong>Target Audience</strong><br>
-The Industry Advisory Board for the COOCK+ project is composed primarily of small and medium-sized enterprises, but also includes organizations that are not R&D intensive. The focus is on companies involved in the development of IoT solutions (including IIoT), such as:
+<strong>Stakeholder Groups</strong><br>
 <ul style="margin-top: 0.7em; margin-bottom: 0.7em; line-height: 1.7;">
-  <li><b>Embedded Device Developers:</b> Benefit from early detection of vulnerabilities and practical tools before products reach the market.</li>
-  <li><b>Software Security Consultants:</b> Gain access to state-of-the-art techniques and methodologies, enhancing their ability to analyze and secure IoT solutions for clients.</li>
-  <li><b>Integrators and IoT Solution Developers:</b> Acquire in-depth knowledge for identifying vulnerabilities and managing IoT solutions securely.</li>
+  <li><b>Manufacturers:</b> Companies developing smart building devices, sensors, and control systems.</li>
+  <li><b>Integrators:</b> Organizations integrating smart building solutions for clients.</li>
+  <li><b>Building Owners & Managers:</b> Property owners and facility managers deploying and managing smart building systems.</li>
+  <li><b>Service Providers:</b> Companies providing installation, maintenance, and support services for smart buildings.</li>
 </ul>
 </div>
 
-
 ## Collaboration Opportunities
 
-Companies interested in:
+Organizations interested in:
 
-- Implementing advanced security testing in IoT development
-- Contributing real-world IoT security scenarios
-- Accessing state-of-the-art security research and tools
-- Participating in hands-on workshops and training
-- Achieving compliance with RED-DA and CRA regulations
+- Secure smart building design and deployment
+- Understanding current threats and vulnerabilities in smart buildings
+- Implementing best practices and security standards
+- Participating in user group meetings and workshops
+- Contributing use cases and real-world scenarios
+- Accessing security resources and guidance documents
 
 ### Get Involved
 
 
-If your organization is interested in collaborating with the BUGATTI project, please contact us:
+If your organization is interested in collaborating with the Secure Smart Buildings project, please contact us:
 
 <div style="background: #f6fafd; border-radius: 8px; padding: 0.8em 1em; margin: 1.2em 0 2em 0; display: flex; align-items: center; gap: 1.2em; box-shadow: 0 2px 8px rgba(0,0,0,0.04); max-width: 450px;">
   <span style="font-size: 1.5em; color: #0078b4;">📧</span>
   <div>
     <div style="font-weight: 600; color: #1565c0;">Contact Person</div>
-    <div style="margin-bottom: 0.2em;">Jorn Lapon <span style="color: #888; font-size: 0.95em;">(KU Leuven, DistriNet, Campus Ghent)</span></div>
-    <a href="#" style="color: #1565c0; text-decoration: underline; display: block;" onclick="window.location.href='mailto:'+'jorn.lapon'+'@'+'kuleuven.be';return false;">jorn.lapon [at] kuleuven [dot] be</a>
-    <a href="https://www.linkedin.com/in/jorn-lapon/" target="_blank" style="color: #1565c0; text-decoration: underline; display: block; margin-top: 0.2em;">LinkedIn: Jorn Lapon</a>
+    <div style="margin-bottom: 0.2em;">Tom Cordemans <span style="color: #888; font-size: 0.95em;">(KU Leuven, DistriNet, Campus Ghent)</span></div>
+    <a href="#" style="color: #1565c0; text-decoration: underline; display: block;" onclick="window.location.href='mailto:'+'tom.cordemans'+'@'+'kuleuven.be';return false;">tom.cordemans [at] kuleuven [dot] be</a>
   </div>
 </div>
 
@@ -120,27 +118,27 @@ If your organization is interested in collaborating with the BUGATTI project, pl
 
 <div class="benefits-grid">
   <div class="benefit-item benefit-knowledge">
-    <div class="benefit-icon">🔬</div>
-    <h4>Advanced Security Tools</h4>
-    <p>Early access to state-of-the-art IoT security testing tools and methodologies</p>
+    <div class="benefit-icon">�</div>
+    <h4>Security Insights</h4>
+    <p>Understand current attacks, vulnerabilities, and security technologies for smart buildings</p>
   </div>
   
   <div class="benefit-item benefit-compliance">
     <div class="benefit-icon">✓</div>
-    <h4>Regulatory Compliance</h4>
-    <p>Guidance on meeting RED-DA, CRA, and IEC 62443-4.x requirements</p>
+    <h4>Best Practices</h4>
+    <p>Access proven methodologies and tools to increase the resilience of smart building systems</p>
   </div>
   
   <div class="benefit-item benefit-network">
     <div class="benefit-icon">🤝</div>
-    <h4>Expert Network</h4>
-    <p>Connect with leading security researchers and industry practitioners</p>
+    <h4>Expert Community</h4>
+    <p>Connect with researchers, integrators, manufacturers, and building managers</p>
   </div>
   
   <div class="benefit-item benefit-training">
     <div class="benefit-icon">📚</div>
-    <h4>Hands-on Training</h4>
-    <p>Participate in practical tutorials and workshops</p>
+    <h4>Hands-on Workshops</h4>
+    <p>Participate in user group meetings and practical training sessions</p>
   </div>
 </div>
 

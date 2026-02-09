@@ -24,17 +24,17 @@ Participants gained practical insights into vulnerability management, understand
 ## Presentations
 
 {% include presentation-card.html 
-   href="/bugatti/assets/events/2025_11_13 UG+workshop/1. Intro + Strengths and pitfalls of Embedded Security Testing Tools.pdf" 
+   href="/ssb/assets/events/2025_11_13 UG+workshop/1. Intro + Strengths and pitfalls of Embedded Security Testing Tools.pdf" 
    title="CVE Discovery & Management" 
    speaker="J. Lapon"
 %}
 {% include presentation-card.html 
-   href="/bugatti/assets/events/2025_11_13 UG+workshop/2. Investigating RTC Security in Consumer IoT.pdf" 
+   href="/ssb/assets/events/2025_11_13 UG+workshop/2. Investigating RTC Security in Consumer IoT.pdf" 
    title="RTC Security in Consumer IoT" 
    speaker="V. Goeman"
 %}
 {% include presentation-card.html 
-   href="/bugatti/assets/events/2025_11_13 UG+workshop/3. Onweer- Automated Resilience Testing through Fuzzing.pdf" 
+   href="/ssb/assets/events/2025_11_13 UG+workshop/3. Onweer- Automated Resilience Testing through Fuzzing.pdf" 
    title="Onweer - Automated Resilience Testing" 
    speaker="G. Coremans"
 %}
