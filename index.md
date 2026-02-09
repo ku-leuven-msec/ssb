@@ -67,7 +67,7 @@ title: Home
 <a id="about"></a>
 # Over Secure Smart Buildings
 
-Het Secure Smart Buildings-project richt zich op het verbeteren van cyberveiligheid in intelligente gebouwen door middel van praktijkgericht onderzoek en kennisdeling.
+Het Secure Smart Buildings-project richt zich op het verbeteren van cyberveiligheid in slimme gebouwen door middel van praktijkgericht onderzoek en kennisdeling.
 
 ## De Uitdaging
 
