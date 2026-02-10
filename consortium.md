@@ -72,23 +72,23 @@ permalink: /consortium/
 
 ---
 
-## Doelgroepen
+## Doelgroep
 
 Het project Secure Smart Buildings richt zich op alle stakeholders in het ecosysteem van slimme gebouwen:
 
 <div style="background: #f8f8f8; border-radius: 10px; padding: 1.5em 1.5em 1em 1.5em; margin-bottom: 2em;">
 <strong>Stakeholders</strong><br>
 <ul style="margin-top: 0.7em; margin-bottom: 0.7em; line-height: 1.7;">
-  <li><b>Fabrikanten:</b> Bedrijven die apparaten, sensoren en besturingssystemen voor slimme gebouwen ontwikkelen.</li>
-  <li><b>Integratoren:</b> Organisaties die slimme bouwoplossingen voor klanten integreren.</li>
-  <li><b>Bouwheren & Gebouwbeheerders:</b> Eigenaren en beheerders van panden die slimme gebouwsystemen inzetten en beheren.</li>
-  <li><b>Dienstverleners:</b> Bedrijven die installatieservices, onderhoud en ondersteuning voor slimme gebouwen bieden.</li>
+  <li><b>Fabrikanten:</b> Ontwikkelen apparaten, sensoren en toepassingen voor slimme gebouwen.</li>
+  <li><b>Integratoren:</b> Integreren en implementeren slimme oplossingen bij klanten.</li>
+  <li><b>Bouwheren & Gebouwbeheerders:</b> Zijn eigenaar en/of verantwoordelijk voor het beheer van slimme gebouwen.</li>
+  <li><b>Dienstverleners:</b> Staan in voor de installatie, het onderhoud en de ondersteuning.</li>
 </ul>
 </div>
 
 ## Samenwerkingsmogelijkheden
 
-Organisaties die geïnteresseerd zijn in:
+<p>Organisaties die geïnteresseerd zijn in:</p>
 
 - Ontwerp en implementatie van veilige intelligente gebouwen
 - Begrip van huidige dreigingen en kwetsbaarheden in slimme gebouwen
