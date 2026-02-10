@@ -7,7 +7,7 @@ permalink: /knowledge-dissemination/
 <div class="hero-section" style="background: linear-gradient(135deg, rgba(0, 150, 210, 0.85) 0%, rgba(0, 120, 180, 0.85) 100%), url('/ssb/assets/images/john-adams-1xIN4FMR78A-unsplash.jpg') center/cover; background-attachment: fixed; min-height: 300px;">
   <div style="max-width: 900px;">
     <h1>📄 Kennisdisseminatie & Evenementen</h1>
-    <p>Bijeenkomsten van de gebruikersgroep, presentaties, workshop-materialen en bronnen uit het Secure Smart Buildings-project.</p>
+    <p>Bijeenkomsten van de gebruikersgroep, presentaties, workshop-materialen en bronnen uit het project Secure Smart Buildings.</p>
   </div>
 </div>
 
