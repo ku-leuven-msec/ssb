@@ -15,7 +15,7 @@ permalink: /knowledge-dissemination/
 
 Het project organiseert regelmatige bijeenkomsten van de gebruikersgroep om kennis te delen, bevindingen te bespreken en samen te werken met stakeholders uit het bedrijfsleven, waaronder fabrikanten, integratoren, gebouwbeheerders en dienstverleners.
 
-## 1^ste^ Bijeenkomst Gebruikersgroep (3 december 2024)
+## 1ste Bijeenkomst Gebruikersgroep (3 december 2024)
 
 <div style="margin: 2em 0; padding: 1.5em; background: #f9f9f9; border-radius: 8px; border-left: 4px solid #0096d2;" markdown="1">
 
