@@ -57,9 +57,9 @@ permalink: /consortium/
   <div style="background: #f6fafd; border-radius: 8px; padding: 0.8em 1em; margin-bottom: 1em; display: flex; align-items: center; gap: 1.2em; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
     <span style="font-size: 1.5em; color: #0078b4;">📧</span>
     <div>
-      <div style="font-weight: 600; color: #1565c0;">Contact</div>
-      <div style="margin-bottom: 0.2em;">Expertisecentrum Sustainable Resources</div>
-      <a href="#" style="color: #1565c0; text-decoration: underline;" onclick="window.location.href='mailto:'+'info'+'@'+'ucll.be';return false;"></a>
+      <div style="font-weight: 600; color: #1565c0;">Contactpersoon</div>
+      <div style="margin-bottom: 0.2em;">Anouk Bosmans</div>
+      <a href="#" style="color: #1565c0; text-decoration: underline;" onclick="window.location.href='mailto:'+'anouk.bosmans'+'@'+'ucll.be';return false;">anouk.bosmans [at] ucll [dot] be</a>
     </div>
   </div>
   
