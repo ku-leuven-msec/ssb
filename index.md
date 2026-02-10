@@ -67,7 +67,7 @@ title: Home
 <a id="about"></a>
 # Over Secure Smart Buildings
 
-Het Secure Smart Buildings-project richt zich op het verbeteren van cyberveiligheid in slimme gebouwen door middel van praktijkgericht onderzoek en kennisdeling.
+Dit project richt zich op het verbeteren van cyberveiligheid in slimme gebouwen door middel van praktijkgericht onderzoek en kennisdeling.
 
 ## De Uitdaging
 
@@ -75,16 +75,16 @@ Door de opkomst van slimme gebouwen is het voor alle stakeholders een uitdaging 
 
 ## Onze Missie
 
-We maken praktijkgerichte **beveiligingskennis en methodologieën** toegankelijk voor fabrikanten, integrators, bouwheren, gebouwbeheerders en dienstverleners. Onze focus ligt op het ontwikkelen van veilige, betrouwbare slimme gebouwsystemen die voldoen aan de hoogste beveiligingsstandaarden en regelgeving.
+We maken praktijkgerichte beveiligingskennis en methodologieën toegankelijk voor fabrikanten, integratoren, bouwheren, gebouwbeheerders en dienstverleners. Onze focus ligt op het aanreiken van tools, richtlijnen en expertise aan Vlaamse bedrijven in het domein van slimme gebouwen om hun kwetsbaarheid voor cyberaanvallen te verminderen en hun veerkracht te vergroten.
 
 ## Doelgroep
 
 Het project richt zich op:
 
-- **Fabrikanten**: Bedrijven die apparaten, sensoren en besturingssystemen voor slimme gebouwen ontwikkelen
-- **Integrators**: Organisaties die slimme bouwoplossingen voor klanten integreren
-- **Bouwheren & Gebouwbeheerders**: Eigenaren en beheerders die slimme gebouwsystemen inzetten en beheren
-- **Dienstverleners**: Bedrijven die installatie, onderhoud en ondersteuning bieden
+- **Fabrikanten**: Ontwikkelen apparaten, sensoren en toepassingen voor slimme gebouwen
+- **Integratoren**: Integreren en implementeren slimme oplossingen bij klanten
+- **Bouwheren & gebouwbeheerders**: Zijn eigenaar en/of verantwoordelijk voor het beheer van slimme gebouwen
+- **Dienstverleners**: Staan in voor de installatie, het onderhoud en de ondersteuning
 
 ---
 
@@ -96,9 +96,7 @@ Het project richt zich op:
 
 3. **Veilige Methodologieën** - Aanbieden van methodologieën om op een effectieve en veilige manier diensten zoals installatie en onderhoud te verwezenlijken
 
-4. **Kennisdisseminatie** - Organiseren van gebruikersgroep-bijeenkomsten en workshops voor kennisdeling met de industrie
-
-5. **Industriesamenwerking** - Samenwerking met stakeholders uit het bedrijfsleven voor praktijkgerichte oplossingen
+4. **Kennisdisseminatie** - Organiseren van seminaries en workshops voor kennisdeling met de industrie
 
 ---
 
