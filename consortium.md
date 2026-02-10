@@ -89,7 +89,7 @@ Het project Secure Smart Buildings richt zich op alle stakeholders in het ecosys
 ## Samenwerkingsmogelijkheden
 
 <p>Organisaties die geïnteresseerd zijn in:</p>
-
+<p> </p>
 - Ontwerp en implementatie van veilige slimme gebouwen
 - Begrip van huidige dreigingen en kwetsbaarheden in slimme gebouwen
 - Implementatie van best practices en beveiligingsnormen
@@ -126,19 +126,19 @@ Als uw organisatie geïnteresseerd is in samenwerking met het project Secure Sma
   <div class="benefit-item benefit-compliance">
     <div class="benefit-icon">✓</div>
     <h4>Aanbevolen werkwijzen</h4>
-    <p>Toegang tot bewezen methodologieën en hulpmiddelen om de veerkracht van slimme bouwsystemen te vergroten</p>
+    <p>Toegang tot bewezen methodologieën en hulpmiddelen om de veerkracht van slimme gebouwen te verhogen</p>
   </div>
   
   <div class="benefit-item benefit-network">
     <div class="benefit-icon">🤝</div>
     <h4>Deskundige gemeenschap</h4>
-    <p>Maak verbinding met onderzoekers, integrators, fabrikanten en gebouwbeheerders</p>
+    <p>Maak verbinding met onderzoekers, integratoren, dienstverleners, fabrikanten en gebouwbeheerders</p>
   </div>
   
   <div class="benefit-item benefit-training">
     <div class="benefit-icon">📚</div>
     <h4>Praktische workshops</h4>
-    <p>Deelnemen aan user group-bijeenkomsten en praktische trainingen</p>
+    <p>Deelnemen aan bijeenkomsten van de gebruikersgroep en praktische trainingen</p>
   </div>
 </div>
 
