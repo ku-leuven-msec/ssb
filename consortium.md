@@ -89,7 +89,7 @@ Het project Secure Smart Buildings richt zich op alle stakeholders in het ecosys
 ## Samenwerkingsmogelijkheden
 
 <p>Organisaties die geïnteresseerd zijn in:</p>
-<p> </p>
+<br>
 - Ontwerp en implementatie van veilige slimme gebouwen
 - Begrip van huidige dreigingen en kwetsbaarheden in slimme gebouwen
 - Implementatie van best practices en beveiligingsnormen
