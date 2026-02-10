@@ -19,7 +19,7 @@ permalink: /consortium/
 
 ## Onderzoekspartners
 
-### KU Leuven - DistriNet, Campus Ghent (Projectleider)
+### KU Leuven - DistriNet, Campus Gent (Projectleider)
 
 <div class="partner-block partner-lead" style="background: #dbe3ee; border-radius: 10px; padding: 1.5em; margin-bottom: 2em; color: #222;">
   <div style="display: flex; align-items: center; gap: 1.5em; margin-bottom: 1em;">
