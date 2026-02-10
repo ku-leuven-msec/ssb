@@ -80,7 +80,7 @@ We maken praktijkgerichte beveiligingskennis en methodologieën toegankelijk voo
 ## Doelgroep
 
 Het project richt zich op:
-
+<br>
 - **Fabrikanten**: Ontwikkelen apparaten, sensoren en toepassingen voor slimme gebouwen
 - **Integratoren**: Integreren en implementeren slimme oplossingen bij klanten
 - **Bouwheren & gebouwbeheerders**: Zijn eigenaar en/of verantwoordelijk voor het beheer van slimme gebouwen
@@ -104,7 +104,6 @@ Het project richt zich op:
 
 Dit TETRA-project wordt uitgevoerd door:
 <br>
-
 - **KU Leuven - DistriNet Campus Gent** (Projectleider): Onderzoeksgroep gespecialiseerd in gedistribueerde systemen, softwareveiligheid en systeemveiligheid
 - **UCLL - Expertisecentrum Sustainable Resources**: Hogeschool met expertise in duurzame energiesystemen en technologie-integratie
 
