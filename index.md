@@ -103,6 +103,7 @@ Het project richt zich op:
 ## Partners
 
 Dit TETRA-project wordt uitgevoerd door:
+<br>
 
 - **KU Leuven - DistriNet Campus Gent** (Projectleider): Onderzoeksgroep gespecialiseerd in gedistribueerde systemen, softwareveiligheid en systeemveiligheid
 - **UCLL - Expertisecentrum Sustainable Resources**: Hogeschool met expertise in duurzame energiesystemen en technologie-integratie
