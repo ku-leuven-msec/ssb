@@ -65,7 +65,7 @@ permalink: /consortium/
   
   <p>UCLL (UC Leuven & Limburg) is een praktijkgerichte hogeschool die onderzoek en onderwijs combineert. Het Expertisecentrum Sustainable Resources begeleidt organisaties in de transitie naar duurzaamheid. We werken aan drie focuslijnen: valorisatie van afval- en reststromen, duurzame energiesystemen, en milieu & gezondheid.</p>
   <p>Het Expertisecentrum beschikt over moderne lab-apparatuur en gedegen expertise in circulariteit en duurzame technologieën. We werken samen met bedrijven, steden en organisaties aan toegepast en praktijkgericht onderzoek. Onze multidisciplinaire teams combineren technologische, economische en design-expertise om duurzame oplossingen voor complexe problemen te realiseren.</p>
-  <p>In het kader van het Secure Smart Buildings-project draagt UCLL expertise aan op het gebied van duurzame energiesystemen en technologie-integratie in intelligente gebouwen. Dit sluit aan bij onze missie om organisaties te ondersteunen in het realiseren van veilige en duurzame bouwsystemen.</p>
+  <p>In het kader van het project Secure Smart Buildings draagt UCLL expertise aan op het gebied van duurzame energiesystemen en technologie-integratie in slimme gebouwen. Dit sluit aan bij onze missie om organisaties te ondersteunen in het realiseren van veilige en duurzame gebouwsystemen.</p>
   
   <p><strong>Website:</strong> <a href="https://research-expertise.ucll.be/nl/sustainable-resources" target="_blank" style="color: #1565c0; text-decoration: underline;">research-expertise.ucll.be/sustainable-resources</a></p>
 </div>
