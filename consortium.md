@@ -8,7 +8,7 @@ permalink: /consortium/
 <div class="hero-section" style="background: linear-gradient(135deg, rgba(0, 150, 210, 0.85) 0%, rgba(0, 120, 180, 0.85) 100%), url('/ssb/assets/images/john-adams-1xIN4FMR78A-unsplash.jpg') center/cover; background-attachment: fixed; min-height: 300px;">
   <div style="max-width: 900px;">
     <h1>🤝 Partners</h1>
-    <p>Kennismaken met de onderzo­eksinstellingen die het Secure Smart Buildings-project vooruit­brengen.</p>
+    <p>Kennismaken met de onderzo­eksinstellingen die het project Secure Smart Buildings realiseren.</p>
   </div>
 </div>
 
@@ -38,9 +38,13 @@ permalink: /consortium/
     </div>
   </div>
   
-  <p>DistriNet@Gent, gevestigd op de Technologiecampus Gent, maakt deel uit van de Vakgroep Informatica in de Faculteit Ingenieurswetenschappen van de KU Leuven. De eenheid heeft uitgebreide ervaring met het opzetten en uitvoeren van innovatieprojecten in samenwerking met de industrie. Het heeft sterke banden met de Faculteit Ingenieurswetenschappen, wat zorgt voor praktijkgeoriënteerd onderzoek dat aansluit bij de behoeften van bedrijven.</p>
+  <p>DistriNet@Gent, gevestigd op de Technologiecampus Gent, maakt deel uit van de vakgroep informatica in de Faculteit Ingenieurswetenschappen van de KU Leuven. De eenheid heeft uitgebreide ervaring met het opzetten en uitvoeren van innovatieprojecten in samenwerking met de industrie. Het heeft sterke banden met de Faculteit Ingenieurswetenschappen, wat zorgt voor praktijkgeoriënteerd onderzoek dat aansluit bij de behoeften van bedrijven.</p>
   <p>De afgelopen jaren is DistriNet@Gent geïntegreerd in de grotere DistriNet-onderzoeksgroep van de KU Leuven in Heverlee. De missie van DistriNet@Gent is het uitvoeren van toegepast onderzoek en kennisdisseminatie op het gebied van Gedistribueerde Systemen, Softwareveiligheid en Systeemveiligheid. Het speelt een sleutelrol in valorisatie binnen deze domeinen voor de Faculteit Ingenieurswetenschappen.</p>
   <p>Het centrale onderzoeksthema is de ontwikkeling en analyse van softwaresystemen met geavanceerde veiligheids- en privacyvereisten. In het afgelopen decennium heeft de groep belangrijke expertise opgebouwd. Het uitgebreide industrienetwerk is het resultaat van talrijke samenwerkingen en diensten voor kleine, middelgrote en grote technologiebedrijven die zich richten op veilige softwareontwikkeling.</p>
+  
+  <p>DistriNet@Gent is actief in het domein van gedistribueerde applicaties, met een sterke focus op softwarebeveiligingstechnologieën en software voor Internet-of-Things-omgevingen. Het onderzoek richt zich op het ontwerp, de ontwikkeling en de analyse van geavanceerde applicaties en software-ecosystemen, waarbij de kloof tussen academisch onderzoek en industriële toepassingen wordt overbrugd.</p>
+  <p>DistriNet@Gent is gevestigd op de technologiecampus Gent en maakt deel uit van de onderzoeksgroep DistriNet. De onderzoeksgroep heeft expertise opgebouwd in tal van technologieën binnen het domein van gedistribueerde systemen en beveiliging. Een belangrijke focus ligt op software-architecturen en middleware voor het bouwen van duurzame Internet-of-Things-ecosystemen, met aandacht voor geavanceerde niet-functionele aspecten zoals flexibiliteit, onderhoudbaarheid en beveiliging/privacy.</p>
+  <p>Binnen het beveiligingsdomein richt de groep zich op de integratie van complexe bouwblokken voor beveiliging en privacy in geavanceerde elektronische diensten. Voorbeelden hiervan zijn geavanceerde authenticatietechnologieën, privacyverhogende technologieën, identiteitsbeheer en mechanismen voor veilige opslag. Daarnaast focust de groep op systeembrede benaderingen om de beveiliging van complexe systemen te analyseren, zoals IoT-omgevingen, industriële controlesystemen en kritieke infrastructuur.</p>
   
   <p><strong>Website:</strong> <a href="https://iiw.kuleuven.be/onderzoek/distrinet/" target="_blank" style="color: #1565c0; text-decoration: underline;">iiw.kuleuven.be/onderzoek/distrinet/</a></p>
 </div>
