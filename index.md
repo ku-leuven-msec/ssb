@@ -46,18 +46,18 @@ title: Home
     <div class="levels-container">
       <div class="level-card">
         <div class="level-number">1</div>
-        <h3>Beveiligingsinzichten</h3>
-        <p>Verstrekken van inzichten met betrekking tot hedendaagse aanvallen, veelvoorkomende kwetsbaarheden en beveiligingstechnologieën tijdens ontwikkeling.</p>
+        <h3>People</h3>
+        <p>Stakeholders beschikken over de juiste kennis, vaardigheden en bewustzijn om cyberveiligheid correct toe te passen en ermee om te gaan.</p>
       </div>
       <div class="level-card">
         <div class="level-number">2</div>
-        <h3>Best Practices & Tools</h3>
-        <p>Aanreiken van best practices en tools die de veerkracht van slimme gebouwen verhogen.</p>
+        <h3>Process</h3>
+        <p>Beveiliging is ingebed in duidelijke processen voor implementatie, opvolging en bijsturing over de volledige levenscyclus.</p>
       </div>
       <div class="level-card">
         <div class="level-number">3</div>
-        <h3>Veilige Methoden</h3>
-        <p>Aanbieden van methodologieën voor effectieve en veilige installatie, onderhoud en dienstverlening.</p>
+        <h3>Technology</h3>
+        <p>Inzet van passende technologische oplossingen ter ondersteuning van beveiliging en cyberveerkracht van slimme gebouwen.</p>
       </div>
     </div>
   </div>
