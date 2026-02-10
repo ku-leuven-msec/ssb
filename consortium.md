@@ -97,10 +97,10 @@ Het project Secure Smart Buildings richt zich op alle stakeholders in het ecosys
 - Bijdragen van use cases en praktijkscenario's
 - Toegang tot beveiligingsmiddelen en richtlijndocumenten
 
-### Samenwerken
+### Samenwerken?
 
 
-Als uw organisatie geïnteresseerd is in samenwerking met het Secure Smart Buildings-project, neem dan contact met ons op:
+Als uw organisatie geïnteresseerd is in samenwerking met het project Secure Smart Buildings, neem dan contact met ons op:
 
 <div style="background: #f6fafd; border-radius: 8px; padding: 0.8em 1em; margin: 1.2em 0 2em 0; display: flex; align-items: center; gap: 1.2em; box-shadow: 0 2px 8px rgba(0,0,0,0.04); max-width: 450px;">
   <span style="font-size: 1.5em; color: #0078b4;">📧</span>
@@ -125,7 +125,7 @@ Als uw organisatie geïnteresseerd is in samenwerking met het Secure Smart Build
   
   <div class="benefit-item benefit-compliance">
     <div class="benefit-icon">✓</div>
-    <h4>Aanbevolen Werkwijzen</h4>
+    <h4>Aanbevolen werkwijzen</h4>
     <p>Toegang tot bewezen methodologieën en hulpmiddelen om de veerkracht van slimme bouwsystemen te vergroten</p>
   </div>
   
