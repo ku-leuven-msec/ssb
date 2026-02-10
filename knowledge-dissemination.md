@@ -24,7 +24,7 @@ Het project organiseert regelmatige bijeenkomsten van de gebruikersgroep om kenn
 - Welkom
 - Korte introductie KU Leuven (DistriNet Research Unit) en UCLL (Expertisecentrum Sustainable Resources)
 - TETRA-project Secure Smart Buildings (Roadmap)
-- Korte introductie van de stuurgroepleden
+- Korte introductie van de gebruikersgroepleden
 - Voorstelling aanpak en speerpunten
 - Feedbackmoment
 
@@ -63,7 +63,7 @@ Het project organiseert regelmatige bijeenkomsten van de gebruikersgroep om kenn
 
 ## Publicaties & Media
 
-Tijdens het project zijn verschillende artikelen, podcasts en reportages verschenen over smart building security en het Secure Smart Buildings-project:
+Tijdens het project zijn verschillende artikelen, podcasts en reportages verschenen over slimme gebouwen en het project Secure Smart Buildings:
 
 <div style="margin: 2em 0;" markdown="1">
 
@@ -110,14 +110,14 @@ Tijdens het project zijn verschillende artikelen, podcasts en reportages versche
 
 ## Projectresultaten
 
-Om organisaties te ondersteunen bij het beveiligen van intelligente gebouwen worden tijdens het project verschillende hulpmiddelen en best practices ontwikkeld:
+Om organisaties te ondersteunen bij het beveiligen van slimme gebouwen worden tijdens het project verschillende hulpmiddelen en best practices ontwikkeld:
 
 <div style="margin: 2em 0; padding: 1.5em; background: #f9f9f9; border-radius: 8px;" markdown="1">
-- **Beveiligingsrichtlijnen** voor smart building systemen
-- **Best practice handleidingen** voor fabrikanten en integratoren
-- **Assessment methodologieën** voor beveiligingsevaluaties
-- **Training materialen** en workshops
-- **Case studies** uit de praktijk
+- Beveiligingsrichtlijnen voor slimme gebouwensystemen
+- Best practice handleidingen voor fabrikanten en integratoren
+- Methodologieën voor beveiligingsevaluaties
+- Opleidingsmaterialen en workshops
+- Case studies uit de praktijk
 
 Deze resources zullen **na afloop van het project (eind 2026)** openbaar beschikbaar worden gemaakt op deze website. Voor meer informatie neem contact op via de projectleiders op de <a href="{{ site.baseurl }}/consortium">Partners</a> pagina.
 </div>
@@ -191,10 +191,6 @@ We use Poll Everywhere to gather feedback from our community. [View latest poll 
 {% endif %}
 
 --- -->
-
-## Upcoming Events
-
-<strong>Want to stay up-to-date?</strong> Send an email to <a href="#" style="color: #1565c0; text-decoration: underline;" onclick="window.location.href='mailto:'+'jorn.lapon'+'@'+'kuleuven.be';return false;">jorn.lapon [at] kuleuven [dot] be</a> to receive updates about future events and project news.
 
 <style>
 .presentation-item {
