@@ -88,6 +88,12 @@ Tijdens het project zijn verschillende artikelen, podcasts en reportages versche
   <a href="https://cybersecurity-bites.be/ict-beheer/het-nut-en-gebruik-van-tabletop-exercises-voorbereiden-op-digitale-crisissituaties/" target="_blank" style="color: #0078b4; font-size: 0.9em;">Lees artikel →</a>
 </div>
 
+<div style="margin: 1.5em 0; padding: 1em; background: #f9f9f9; border-radius: 8px; border-left: 4px solid #0096d2;">
+  <strong><a href="https://cybersecurity-bites.be/beveiligingsinfrastructuur/cyberveiligheid-in-slimme-gebouwen-begint-met-overzicht/" target="_blank" style="color: #1a1a1a; text-decoration: none;">Cyberveiligheid in slimme gebouwen begint met overzicht</a></strong><br>
+  <em>Cybersecurity Bites</em><br>
+  <a href="https://cybersecurity-bites.be/beveiligingsinfrastructuur/cyberveiligheid-in-slimme-gebouwen-begint-met-overzicht/" target="_blank" style="color: #0078b4; font-size: 0.9em;">Lees artikel →</a>
+</div>
+
 ### Podcast
 
 <div style="margin: 1.5em 0; padding: 1em; background: #f9f9f9; border-radius: 8px; border-left: 4px solid #0096d2;">
