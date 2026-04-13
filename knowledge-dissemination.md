@@ -59,6 +59,19 @@ Het project organiseert regelmatige bijeenkomsten van de gebruikersgroep om kenn
 
 </div>
 
+## 4de Bijeenkomst Gebruikersgroep (28 april 2026)
+
+<div style="margin: 2em 0; padding: 1.5em; background: #f9f9f9; border-radius: 8px; border-left: 4px solid #0096d2;" markdown="1">
+
+**Agenda:**
+
+- Welkom
+- Presentatie omtrent threat modeling bij slimme gebouwen
+- Presentatie en discussie omtrent de Cyber Resilience Act (CRA)
+- Presentatie en demonstratie omtrent het monitoren OT-omgevingen
+- What's next?
+
+</div>
 ---
 
 ## Publicaties & Media
