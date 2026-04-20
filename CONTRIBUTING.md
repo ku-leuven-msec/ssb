@@ -30,7 +30,7 @@ The easiest way to contribute is through GitHub's web interface - no local setup
    date: 2024-03-15
    event: "Event Name (e.g., Quarterly Meeting Q1)"
    description: "A brief description of what the presentation covers"
-   slides: "/ssb/assets/presentations/your-file.pdf"
+   slides: "/assets/presentations/your-file.pdf"
    ---
    ```
 
@@ -135,7 +135,7 @@ All pages use Markdown formatting. [Markdown Guide](https://www.markdownguide.or
 2. Reference in markdown:
 
 ```markdown
-![Alt text](/ssb/assets/images/your-image.jpg)
+![Alt text](/assets/images/your-image.jpg)
 ```
 
 ## Testing Locally (Optional)
@@ -149,7 +149,7 @@ bundle install
 # Start local server
 bundle exec jekyll serve
 
-# Open http://localhost:4000/ssb in your browser
+# Open http://localhost:4000 in your browser
 ```
 
 ## Style Guidelines
