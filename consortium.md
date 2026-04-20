@@ -86,6 +86,31 @@ Het project Secure Smart Buildings richt zich op alle stakeholders in het ecosys
 </ul>
 </div>
 
+## Lijst met stuurgroepleden
+
+- Alides Reim NV
+- ATS NV
+- Boolean BV
+- Buildwise VZW
+- CFE NV
+- COMmeto BV
+- Cyber Security Coalition VZW
+- Embuild Vlaanderen VZW
+- GuestWay BV
+- Ingenium NV
+- Intellisol NV
+- Johnson Controls BV
+- Maco BV
+- Nextensa NV
+- NVISO Belgium BV
+- Prado Europe BV
+- SnapCore BV
+- United Codes NV
+- Vinci Facilities Belgium NV
+- Vinçotte Academy NV
+- VMA NV
+- Volta VZW
+
 ## Samenwerkingsmogelijkheden
 
 <p>Organisaties die geïnteresseerd zijn in:</p>
