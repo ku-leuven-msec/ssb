@@ -72,6 +72,21 @@ Het project organiseert regelmatige bijeenkomsten van de gebruikersgroep om kenn
 - What's next?
 
 </div>
+
+## 5de Bijeenkomst Gebruikersgroep (8 september 2026)
+
+<div style="margin: 2em 0; padding: 1.5em; background: #f9f9f9; border-radius: 8px; border-left: 4px solid #0096d2;" markdown="1">
+
+**Agenda:**
+
+- Welkom
+- Presentatie en discussie omtrent integratie van cyberveiligheid in een lastenboek
+- Presentatie en discussie omtrent skills voor technici
+- Workshop: From terminal to packet
+- What's next?
+
+</div>
+
 ---
 
 ## Publicaties & Media
