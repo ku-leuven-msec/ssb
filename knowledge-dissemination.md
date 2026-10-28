@@ -11,6 +11,41 @@ permalink: /knowledge-dissemination/
   </div>
 </div>
 
+## Beveiligingsgids
+
+<div class="guide-feature" markdown="0">
+  <a href="/assets/presentations/SecureSmartBuildings_Beveiligingsgids.pdf" target="_blank" class="guide-cover">
+    <img src="/assets/images/beveiligingsgids-cover.png" alt="Cover van de beveiligingsgids Secure Smart Buildings – Basic concepts and guidelines">
+  </a>
+  <div class="guide-text">
+    <h3>Secure Smart Buildings – Basic concepts and guidelines</h3>
+    <p>Een praktische beveiligingsgids voor fabrikanten, integratoren, gebouwbeheerders en dienstverleners. De gids bundelt de inzichten uit het project en behandelt onder meer:</p>
+    <ul>
+      <li>Smart building infrastructuur, netwerken en integratie-uitdagingen</li>
+      <li>Regelgeving en standaarden voor cyberveilige gebouwen (o.a. NIS2 en de Cyber Resilience Act)</li>
+      <li>Security-by-design en threat modelling voor smart building producten en systemen</li>
+      <li>Veilig beheer en onderhoud: governance, bescherming, incident response en competenties</li>
+    </ul>
+    <a href="/assets/presentations/SecureSmartBuildings_Beveiligingsgids.pdf" target="_blank" class="btn">Download de gids (PDF, 60 pagina's)</a>
+  </div>
+</div>
+
+## Actiekaarten Tabletop Exercise
+
+<div class="guide-feature" markdown="0">
+  <a href="/assets/presentations/TTX.pdf" target="_blank" class="guide-cover ttx-cover">
+    <img src="/assets/images/ttx-actiekaarten.png" alt="Vier actiekaarten uit de tabletop exercise: Informeer de werknemers, Meld het incident bij het CCB, Breng back-ups in veiligheid, Ontkoppel het Internet">
+  </a>
+  <div class="guide-text">
+    <h3>Actiekaarten voor een tabletop exercise (TTX)</h3>
+    <p>Tijdens de workshop <em>Incident Response Plan</em> op de 3de bijeenkomst van de gebruikersgroep werd een tabletop exercise gespeeld met actiekaarten. Elke kaart beschrijft een mogelijke actie bij een cyberincident in een smart building, zoals het informeren van werknemers of de gebouweigenaar, het melden van het incident bij het CCB, het ontkoppelen van het internet of het in veiligheid brengen van back-ups. Lege kaarten laten toe om eigen acties toe te voegen. Gebruik de kaarten om zelf een oefening te organiseren en uw incident response plan te toetsen.</p>
+    <p>Meer over het nut van tabletop exercises leest u in het artikel <a href="https://cybersecurity-bites.be/ict-beheer/het-nut-en-gebruik-van-tabletop-exercises-voorbereiden-op-digitale-crisissituaties/" target="_blank">Het nut en gebruik van Tabletop Exercises</a>.</p>
+    <a href="/assets/presentations/TTX.pdf" target="_blank" class="btn">Download de actiekaarten (PDF, A4)</a>
+  </div>
+</div>
+
+---
+
 # Bijeenkomsten Gebruikersgroep
 
 Het project organiseert regelmatige bijeenkomsten van de gebruikersgroep om kennis te delen, bevindingen te bespreken en samen te werken met stakeholders uit het bedrijfsleven, waaronder fabrikanten, integratoren, gebouwbeheerders en dienstverleners.
@@ -23,10 +58,19 @@ Het project organiseert regelmatige bijeenkomsten van de gebruikersgroep om kenn
 
 - Welkom
 - Korte introductie KU Leuven (DistriNet Research Unit) en UCLL (Expertisecentrum Sustainable Resources)
-- TETRA-project Secure Smart Buildings (Roadmap)
+- TETRA-project Secure Smart Buildings (motivatie en context)
 - Korte introductie van de gebruikersgroepleden
 - Voorstelling aanpak en speerpunten
 - Feedbackmoment
+- Netwerkreceptie
+
+**Slides:**
+
+{% include presentation-card.html
+   href="/assets/presentations/UG1.pdf"
+   title="Presentaties 1ste bijeenkomst gebruikersgroep"
+   speaker="3 december 2024 (PDF)"
+%}
 
 </div>
 
@@ -42,6 +86,14 @@ Het project organiseert regelmatige bijeenkomsten van de gebruikersgroep om kenn
 - Presentatie en demonstratie omtrent Network reconnaissance (low hanging fruit)
 - Demonstratie (incl. tech talk) Eufy Deurbel
 
+**Slides:**
+
+{% include presentation-card.html
+   href="/assets/presentations/UG2.pdf"
+   title="Presentaties 2de bijeenkomst gebruikersgroep"
+   speaker="15 mei 2025 (PDF)"
+%}
+
 </div>
 
 ## 3de Bijeenkomst Gebruikersgroep (18 november 2025)
@@ -50,12 +102,22 @@ Het project organiseert regelmatige bijeenkomsten van de gebruikersgroep om kenn
 
 **Agenda:**
 
-- Welkom
-- Presentatie omtrent regelgeving & standaarden voor cyberveilige omgevingen
-- Workshops:
+- 14u00 – 14u15: Welkom
+- 14u15 – 15u00: Regelgeving & standaarden voor cyberveilige omgevingen
+- 15u15 – 16u15: Parallelle workshops (sessie 1)
   - Local Network Management
   - Asset Management
   - Incident Response Plan (Tabletop exercise)
+- 16u30 – 17u30: Parallelle workshops (sessie 2, herhaling sessie 1)
+- 17u30 – 19u30: Receptie en netwerkmoment
+
+**Slides:**
+
+{% include presentation-card.html
+   href="/assets/presentations/UG3.pdf"
+   title="Presentaties 3de bijeenkomst gebruikersgroep"
+   speaker="18 november 2025 (PDF)"
+%}
 
 </div>
 
@@ -65,11 +127,21 @@ Het project organiseert regelmatige bijeenkomsten van de gebruikersgroep om kenn
 
 **Agenda:**
 
-- Welkom
-- Presentatie omtrent threat modeling bij slimme gebouwen
-- Presentatie en discussie omtrent de Cyber Resilience Act (CRA)
-- Presentatie en demonstratie omtrent het monitoren OT-omgevingen
-- What's next?
+- 13u30 – 14u00: Koffie
+- 14u00 – 14u15: Welkom
+- 14u15 – 15u10: Sticks and Stones: Threat Modeling Smart Buildings
+- 15u15 – 16u10: Constructing Cyber Resilience: The CRA and standards as cornerstones
+- 16u15 – 17u10: Monitoring in OT Environments: Detecting, Analyzing, and Preventing
+- 17u15 – 17u30: What's next?
+- 17u30 – 19u30: Netwerkreceptie
+
+**Slides:**
+
+{% include presentation-card.html
+   href="/assets/presentations/UG4.pdf"
+   title="Presentaties 4de bijeenkomst gebruikersgroep"
+   speaker="28 april 2026 (PDF)"
+%}
 
 </div>
 
@@ -79,11 +151,20 @@ Het project organiseert regelmatige bijeenkomsten van de gebruikersgroep om kenn
 
 **Agenda:**
 
-- Welkom
-- Presentatie en discussie omtrent integratie van cyberveiligheid in een lastenboek
-- Presentatie en discussie omtrent skills voor technici
-- Workshop: From terminal to packet
-- What's next?
+- Welkom: stand van zaken en recente ontwikkelingen
+- 14u15 – 15u10: Cybersecurity integreren in bestekken (i.s.m. Regie der Gebouwen)
+- 15u15 – 16u10: Skills for technicians
+- 16u15 – 17u10: Workshop: from terminal to packet
+- 17u15 – 17u30: What's next?
+- 17u30 – 19u30: Netwerkreceptie
+
+**Slides:**
+
+{% include presentation-card.html
+   href="/assets/presentations/UG5.pdf"
+   title="Presentaties 5de bijeenkomst gebruikersgroep"
+   speaker="8 september 2026 (PDF)"
+%}
 
 </div>
 
@@ -139,22 +220,6 @@ Tijdens het project zijn verschillende artikelen, podcasts en reportages versche
 </div>
 
  </div>
-
----
-
-## Projectresultaten
-
-Om organisaties te ondersteunen bij het beveiligen van slimme gebouwen worden tijdens het project verschillende hulpmiddelen en best practices ontwikkeld:
-
-<div style="margin: 2em 0; padding: 1.5em; background: #f9f9f9; border-radius: 8px;" markdown="1">
-- Beveiligingsrichtlijnen voor slimme gebouwensystemen
-- Best practice handleidingen voor fabrikanten en integratoren
-- Methodologieën voor beveiligingsevaluaties
-- Opleidingsmaterialen en workshops
-- Case studies uit de praktijk
-
-Deze resources zullen **na afloop van het project (eind 2026)** openbaar beschikbaar worden gemaakt op deze website. Voor meer informatie neem contact op via de projectleiders op de <a href="{{ site.baseurl }}/consortium">Partners</a> pagina.
-</div>
 
 <!-- 
 ---
@@ -227,6 +292,53 @@ We use Poll Everywhere to gather feedback from our community. [View latest poll 
 --- -->
 
 <style>
+.guide-feature {
+  display: flex;
+  gap: 2em;
+  align-items: flex-start;
+  margin: 2em 0;
+  padding: 1.5em;
+  background: #f9f9f9;
+  border-radius: 8px;
+  border-left: 4px solid #0096d2;
+}
+.guide-cover {
+  flex: 0 0 240px;
+}
+.guide-cover img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.25);
+  transition: transform 0.2s;
+}
+.guide-cover:hover img {
+  transform: translateY(-4px);
+}
+.ttx-cover {
+  flex-basis: 340px;
+}
+.ttx-cover img {
+  box-shadow: none;
+}
+.guide-text h3 {
+  margin-top: 0;
+}
+@media (max-width: 700px) {
+  .guide-feature {
+    flex-direction: column;
+    align-items: center;
+  }
+  .guide-cover {
+    flex-basis: auto;
+    width: 200px;
+  }
+  .ttx-cover {
+    width: 100%;
+    max-width: 340px;
+  }
+}
 .presentation-item {
   margin: 2em 0;
 }

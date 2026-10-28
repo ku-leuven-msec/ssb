@@ -8,7 +8,7 @@ title: Home
     <h1>🏢 Secure Smart Buildings</h1>
     <h2 style="color: white; border: none; padding: 0; margin: 0;">Cyberveiligheid voor slimme gebouwen</h2>
     <p>Het verwerven van inzicht in adequate beveiliging, relevante regelgeving en beveiligingsstandaarden voor slimme gebouwen. Een TETRA-project voor fabrikanten, integratoren, bouwheren, gebouwbeheerders en dienstverleners.</p>
-    <p><a href="#about" class="btn" style="margin-top: 20px;">Meer info</a></p>
+    <p><a href="#about" class="btn" style="margin-top: 20px;">Meer info</a> <a href="/assets/presentations/SecureSmartBuildings_Beveiligingsgids.pdf" target="_blank" class="btn" style="margin-top: 20px;">Download de beveiligingsgids</a></p>
   </div>
 </div>
 
@@ -36,6 +36,31 @@ title: Home
         <h3>Veilige werkwijzen</h3>
         <p>Methodologieën gericht op cyberveiligheid in installatie, onderhoud en dienstverlening.</p>
       </div>
+    </div>
+  </div>
+</div>
+
+<div class="results-section">
+  <div class="wrapper">
+    <h2>Projectresultaten</h2>
+    <p class="results-intro">Nu het project afloopt, stellen we de resultaten publiek ter beschikking.</p>
+    <div class="guide-highlight">
+      <a href="/assets/presentations/SecureSmartBuildings_Beveiligingsgids.pdf" target="_blank" class="guide-highlight-cover">
+        <img src="/assets/images/beveiligingsgids-cover.png" alt="Cover van de beveiligingsgids Secure Smart Buildings – Basic concepts and guidelines">
+      </a>
+      <div class="guide-highlight-text">
+        <span class="guide-highlight-kicker">Beveiligingsgids</span>
+        <h3>Secure Smart Buildings<br>Basic concepts and guidelines</h3>
+        <p>Dé praktische gids voor fabrikanten, integratoren, gebouwbeheerders en dienstverleners. Ze bundelt de inzichten uit het project: smart building infrastructuur en netwerken, regelgeving en standaarden (NIS2, Cyber Resilience Act), security-by-design en threat modelling, en veilig beheer en onderhoud van slimme gebouwen.</p>
+        <div class="result-actions">
+          <a href="/assets/presentations/SecureSmartBuildings_Beveiligingsgids.pdf" target="_blank" class="guide-highlight-btn">Download de gids (PDF, 60 pagina's)</a>
+          <a href="{{ '/knowledge-dissemination/#beveiligingsgids' | relative_url }}" class="guide-highlight-link">Meer info →</a>
+        </div>
+      </div>
+    </div>
+    <div class="results-more">
+      <p>Bekijk ook de andere projectresultaten en output: actiekaarten voor een tabletop exercise, presentaties van de bijeenkomsten van de gebruikersgroep, artikels en meer.</p>
+      <a href="{{ '/knowledge-dissemination/' | relative_url }}" class="result-btn">Meer projectresultaten en output →</a>
     </div>
   </div>
 </div>
