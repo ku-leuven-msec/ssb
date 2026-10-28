@@ -51,7 +51,7 @@ title: Home
       <div class="guide-highlight-text">
         <span class="guide-highlight-kicker">Beveiligingsgids</span>
         <h3>Secure Smart Buildings<br>Basic concepts and guidelines</h3>
-        <p>Dé praktische gids voor fabrikanten, integratoren, gebouwbeheerders en dienstverleners. Ze bundelt de inzichten uit het project: smart building infrastructuur en netwerken, regelgeving en standaarden (NIS2, Cyber Resilience Act), security-by-design en threat modelling, en veilig beheer en onderhoud van slimme gebouwen.</p>
+        <p>De praktische gids voor fabrikanten, integratoren, gebouwbeheerders en dienstverleners. Ze bundelt de inzichten uit het project: smart building infrastructuur en netwerken, regelgeving en standaarden (NIS2, Cyber Resilience Act), security-by-design en threat modelling, en veilig beheer en onderhoud van slimme gebouwen.</p>
         <div class="result-actions">
           <a href="/assets/presentations/SecureSmartBuildings_Beveiligingsgids.pdf" target="_blank" class="guide-highlight-btn">Download de gids (PDF, 60 pagina's)</a>
           <a href="{{ '/knowledge-dissemination/#beveiligingsgids' | relative_url }}" class="guide-highlight-link">Meer info →</a>
