@@ -62,7 +62,7 @@ Het project organiseert regelmatige bijeenkomsten van de gebruikersgroep om kenn
 - Korte introductie van de gebruikersgroepleden
 - Voorstelling aanpak en speerpunten
 - Feedbackmoment
-- Netwerkreceptie
+- Receptie en netwerkmoment
 
 **Slides:**
 
@@ -85,6 +85,7 @@ Het project organiseert regelmatige bijeenkomsten van de gebruikersgroep om kenn
 - Presentatie en discussie omtrent Secure Remote Access
 - Presentatie en demonstratie omtrent Network reconnaissance (low hanging fruit)
 - Demonstratie (incl. tech talk) Eufy Deurbel
+- Receptie en netwerkmoment
 
 **Slides:**
 
@@ -102,14 +103,14 @@ Het project organiseert regelmatige bijeenkomsten van de gebruikersgroep om kenn
 
 **Agenda:**
 
-- 14u00 – 14u15: Welkom
-- 14u15 – 15u00: Regelgeving & standaarden voor cyberveilige omgevingen
-- 15u15 – 16u15: Parallelle workshops (sessie 1)
+- Welkom
+- Regelgeving & standaarden voor cyberveilige omgevingen
+- Parallelle workshops (sessie 1)
   - Local Network Management
   - Asset Management
   - Incident Response Plan (Tabletop exercise)
-- 16u30 – 17u30: Parallelle workshops (sessie 2, herhaling sessie 1)
-- 17u30 – 19u30: Receptie en netwerkmoment
+- Parallelle workshops (sessie 2, herhaling sessie 1)
+- Receptie en netwerkmoment
 
 **Slides:**
 
@@ -127,13 +128,12 @@ Het project organiseert regelmatige bijeenkomsten van de gebruikersgroep om kenn
 
 **Agenda:**
 
-- 13u30 – 14u00: Koffie
-- 14u00 – 14u15: Welkom
-- 14u15 – 15u10: Sticks and Stones: Threat Modeling Smart Buildings
-- 15u15 – 16u10: Constructing Cyber Resilience: The CRA and standards as cornerstones
-- 16u15 – 17u10: Monitoring in OT Environments: Detecting, Analyzing, and Preventing
-- 17u15 – 17u30: What's next?
-- 17u30 – 19u30: Netwerkreceptie
+- Welkom
+- Sticks and Stones: Threat Modeling Smart Buildings
+- Constructing Cyber Resilience: The CRA and standards as cornerstones
+- Monitoring in OT Environments: Detecting, Analyzing, and Preventing
+- What's next?
+- Receptie en netwerkmoment
 
 **Slides:**
 
@@ -152,11 +152,11 @@ Het project organiseert regelmatige bijeenkomsten van de gebruikersgroep om kenn
 **Agenda:**
 
 - Welkom: stand van zaken en recente ontwikkelingen
-- 14u15 – 15u10: Cybersecurity integreren in bestekken (i.s.m. Regie der Gebouwen)
-- 15u15 – 16u10: Skills for technicians
-- 16u15 – 17u10: Workshop: from terminal to packet
-- 17u15 – 17u30: What's next?
-- 17u30 – 19u30: Netwerkreceptie
+- Cybersecurity integreren in bestekken (i.s.m. Regie der Gebouwen)
+- Skills for technicians
+- Workshop: from terminal to packet
+- What's next?
+- Receptie en netwerkmoment
 
 **Slides:**
 
